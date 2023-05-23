@@ -6,24 +6,13 @@ title: Climate Change, Food System and Remote Sensing
 ## DSI-Africa Training Programme: UKZN Hub
 
 ### Dates: Monday 10th July- Friday 21st July 2023
-### Venue: Garden Court, Umhlanga (Corner of Aurora Drive and Centenary Boulevard, Umhlanga Rocks, Kwazulu-Natal, South Africa.
+### Venue: [Garden Court, Umhlanga](https://www.southernsun.com/garden-court-umhlanga![image](https://github.com/ccfscourseukzn/ccfscourseukzn.github.io/assets/32001572/5cbfa664-15b3-4a0e-81c8-0a0e691218c1)
+) (Corner of Aurora Drive and Centenary Boulevard, Umhlanga Rocks, Kwazulu-Natal, South Africa.
 
 #### Please use the following link: [ZOOM LINK](link will be provided later).
-* Inroduction to Epidemiology/Global Health and Health Data Science.
-* Introduction to Python and Juputer Notebook.
-* Introduction to PyTorch.
-* Introduction to Tenserflow.
-
-### Lectures
-
-* Lectures will be from **Monday, 26 June 2023 – Friday, 06 July 2023**.
-* We will be using **Python** for all programming assignments and projects.
-* Note: all lectures will be held *in-person*.
 
 
-
-### Schedule
-
+### Lectures Schedule 
 
 #### Week 1:
 
@@ -40,12 +29,12 @@ title: Climate Change, Food System and Remote Sensing
 <thead>
   <tr>
     <th class="tg-amwm">Time</th>
-    <th class="tg-amwm">Monday 26/06</th>
-    <th class="tg-amwm">Tuesday 27/06</th>
-    <th class="tg-amwm">Wednesday 28/06</th>
-    <th class="tg-amwm">Thursday 29/06</th>
-    <th class="tg-amwm">Friday 30/06</th>
-    <th class="tg-amwm">Saturday 01/07</th>
+    <th class="tg-amwm">Monday 10/07</th>
+    <th class="tg-amwm">Tuesday 11/07</th>
+    <th class="tg-amwm">Wednesday 12/07</th>
+    <th class="tg-amwm">Thursday 13/07</th>
+    <th class="tg-amwm">Friday 14/07</th>
+    <th class="tg-amwm">Saturday 15/07</th>
   </tr>
 </thead>
 <tbody>
