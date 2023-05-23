@@ -3,7 +3,7 @@ layout: frontpage
 title: Climate Change, Food System and Remote Sensing
 ---
 
-## DSI-Africa Training Programme: UKZN Hub
+## DSI-Africa Training Programme: Climate Change, Food System and Remote Sensing
 
 ### Dates: Monday 10th July- Friday 21st July 2023
 ### Venue: [Garden Court, Umhlanga,](https://www.southernsun.com/garden-court-umhlanga) Corner of Aurora Drive and Centenary Boulevard, Umhlanga Rocks, Kwazulu-Natal, South Africa.
