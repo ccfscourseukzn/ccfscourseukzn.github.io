@@ -1,6 +1,6 @@
 ---
 layout: frontpage
-title: Deep Learning Short Course
+title: Climate Change Short Course
 ---
 
 ## DSI-Africa Deep Learning Short Course: UKZN Hub
