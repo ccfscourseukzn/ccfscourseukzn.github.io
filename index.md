@@ -1,11 +1,13 @@
 ---
 layout: frontpage
-title: Climate Change Short Course
+title: Climate Change, Food System and Remote Sensing
 ---
 
-## DSI-Africa Deep Learning Short Course: UKZN Hub
+## DSI-Africa Training Programme: UKZN Hub
 
-### BootCamp (19-23 June 2023)
+### Dates: Monday 10th July- Friday 21st July 2023
+### Venue: Garden Court, Umhlanga (Corner of Aurora Drive and Centenary Boulevard, Umhlanga Rocks, Kwazulu-Natal, South Africa.
+
 #### Please use the following link: [ZOOM LINK](link will be provided later).
 * Inroduction to Epidemiology/Global Health and Health Data Science.
 * Introduction to Python and Juputer Notebook.
