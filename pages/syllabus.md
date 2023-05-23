@@ -4,7 +4,8 @@ title: Syllabus
 ---
 
 #### Course Description 
-Deep learning is a subfield of machine learning that builds predictive models using large artificial neural networks. Deep learning has revolutionized the fields of computer vision, automatic speech recognition, natural language processing, and numerous areas including public health, medicine and computational biology. In this short course, we will introduce the basic concepts of deep neural networks, discuss basic neural networks, convolutional neural networks and recurrent neural networks structures, and examine biomedical and public health applications. Participants are expected to be familiar with calculus, linear algebra, machine learning and Python.
+This course will introduce trainees to concepts of climate change, nutrition, diet, food systems, remote sensing and planetary health and the descriptive application of these concepts. Part two of the course will look at linking these concepts and analysis of data.
+The Remote Sensing and spatial analysis section seeks to provide theoretical concepts underpinning Remote Sensing applications related to Food Systems, Climate Change and Planetary Health. This include image pre-processing using open source software and basic spatial analysis using optical and thermal remotely sensed data. The section provides a basis for the advanced phase of the course on Food Systems, Climate Change and Planetary Health spatial analysis to be offered towards the end of 2023. 
 
 In **week 1**, participants will be introduced to several deep learning methods and techniques in a sequence of lectures and practical exercises involving computer applications using relevant real data sets in the health domain.
 
