@@ -239,17 +239,17 @@ Professor of Population Sciences, and Professor of Nutrition, Epidemiology, and 
     <td class="tg-0lax"><img src="figures/Sandra.png" width="1000" height="1000" alt="Sandra-Barteit"/></td>
   </tr>
   <tr>
-    <td class="tg-0lax">Facilitator</td>
-    <td class="tg-0lax">Dr. Palwasha Khan, Head of informatics at AHRI</td>
-    <td class="tg-0lax"></td>
-    <td class="tg-0lax">Palwasha Khan is a Clinical Associate Professor in Infectious Disease Epidemiology at London School of Hygiene &amp; Tropical Medicine and a clinical epidemiologist with Interactive Research &amp; Development primarily working at the clinical academia-implementation interface. She is currently seconded to the Africa Health Research Institute (AHRI) in Kwa-Zulu Natal as head of the Health Informatics section of the AHRI Data Science Unit.  Her research interests include combining field epidemiological studies and programmatic electronic health data to further understanding of Mycobacterium tuberculosis transmission at a population-level.</td>
+    <td class="tg-0lax">Lead Facilitator</td>
+    <td class="tg-0lax">Prof. Onisimo Mutanga, University of KwaZulu-Natal</td>
+    <td class="tg-0lax"><a href="mailto:mutangao@ukzn.ac.za">mutangao@ukzn.ac.za</a><br></td>
+    <td class="tg-0lax">Onisimo Mutanga is full Professor of Remote Sensing and SARChI Chair in Landuse Planning and Management in the School of Agriculture, Earth and Environmental Science at the University of KwaZulu- Natal. His expertise lies in resource modelling, and pattern and condition analysis in the face of global and land use change. These include vegetation quality and quantity assessment in both space and time using remote sensing for grazing resource management and climate change mitigation. He integrates ecology, biodiversity conservation and remote sensing to model, among others, the impact of forest fragmentation, pests and diseases and invasive species on ecosystems as an integral component of land use planning and management.</td>
     <td class="tg-0lax"><img src="figures/Khan.png" width="1000" height="1000" alt="Khan"/></td>
   </tr>
   <tr>
     <td class="tg-0lax">Facilitator</td>
-    <td class="tg-0lax">Dr. Mandlenkosi Gwetu</td>
-    <td class="tg-0lax"><a href="mailto:Gwetum@ukzn.ac.za">Gwetum@ukzn.ac.za</a><br></td>
-    <td class="tg-0lax">Mandla Gwetu is a Computer Scientist with over 10 years of academic experience. He is also an alumnus of the Heidelberg Laureate Forum and holds a Doctoral Degree in Computer Science. He currently serves as the Academic Leader for Computer Science at UKZN. His research focus lies mainly in the computational aspects of computer vision and machine learning. He currently supervises several PhD &amp; MSc students in these areas. Mandla holds industry certifications in Java and AWS. He is an experienced reviewer of several Computer Science Journal and international conferences.</td>
+    <td class="tg-0lax">Dr. Trylee Matongera </td>
+    <td class="tg-0lax"><a href="mailto:matongerat@ukzn.ac.za">matongerat@ukzn.ac.za</a><br></td>
+    <td class="tg-0lax">Trylee Matongera is a Postdoctoral Research Fellow at the Centre for Transformative Agriculture and Food Systems at the University of KwaZulu-Natal. His research interests lie in applying advanced machine learning and remote sensing techniques to better understand crop growth patterns and to develop more effective and efficient precision agriculture technologies. Specifically, he is interested in exploring the use of hyperspectral, LIDAR and multispectral imagery to detect and monitor crop health and nutrient deficiencies, as well as the use of unmanned aerial vehicles (UAVs) for precision mapping and monitoring of crops and agricultural fields. </td>
     <td class="tg-0lax"><img src="figures/Mandla.png" width="1000" height="1000" alt="Mandla"/></td>
   </tr>
   <tr>
