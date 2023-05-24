@@ -74,8 +74,7 @@ title: Climate Change, Food System and Remote Sensing
     <td class="tg-0lax">Lunch</td>
     
   </tr>
-  Introduction to concepts and indicators: 
-•	Environmental footprints of foods
+  
   <tr>
     <td class="tg-amwm">1:00-2:15 pm</td>
     <td class="tg-0lax">Introduction to concepts and indicators: Environmental footprints of foods </td>
