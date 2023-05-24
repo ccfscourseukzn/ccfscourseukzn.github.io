@@ -222,35 +222,35 @@ Professor of Population Sciences, and Professor of Nutrition, Epidemiology, and 
     <td class="tg-0lax"><a href="mailto:mina@hsph.harvard.edu"> mina@hsph.harvard.edu</a><br></td>
     <td class="tg-0lax"> Wafaie Fawzi’s research has generated significant new knowledge on the discovery and translation of interventions to enhance maternal and child health and human development, with emphasis on nutritional factors. His research includes the epidemiology of adverse pregnancy outcomes, childhood infections, and HIV, TB and malaria. He established the Nutrition and Global Health Program at Harvard T.H. Chan School of Public Health, that addresses and documents existing gaps; advances the research agenda; and convenes multi-disciplinary partners. He also developed two implementation science initiatives to advance adolescent health in Africa and Asia, and the intersectoral integration of agriculture, nutrition and health in Ethiopia and Tanzania. He established the Africa Research, Implementation Science, and Education (ARISE) Network, a partnership of leading academic institutions in Africa, and the China Harvard Africa Network (CHAN) to advance cutting-edge training of public health leaders through South-South-North institutional partnerships.
 <br></td>
-    <td class="tg-0lax"><img src="figures/mwambi.png" width="1000" height="1000" alt="mwambi"/></td>
+    <td class="tg-0lax"><img src="figures/wafaie.jpeg" width="1000" height="1000" alt="wafaie"/></td>
   </tr>
   <tr>
     <td class="tg-0lax">Lead Facilitator</td>
     <td class="tg-0lax">Prof. Ina Danquah, Heidelberg Institute of Global Health </td>
     <td class="tg-0lax"><a href="mailto:ina.danquah@uni-heidelberg.de">ina.danquah@uni-heidelberg.de</a><br></td>
     <td class="tg-0lax">Ina has trained in nutrition science and epidemiology and has obtained her PhD in Tropical Medicine from Charité – Universitaetsmedizin Berlin, Germany. She has strong research interests in dietary risk factors for infectious diseases, obesity and type 2 diabetes, particularly among African populations under transition. Ina leads a research group on climate change, nutrition and health with the ambition i) to define impacts on dietary habits and nutritional status, ii) to design, implement and evaluate climate change adaptation strategies, and iii) to determine the health co-benefits of climate change mitigation actions. Ina coordinates a large consortium on climate change and health in sub-Saharan Africa, and is Robert Bosch Junior Professor for Sustainable Nutrition in sub-Saharan Africa. She has published more than 90 peer-reviewed articles, has an h-index of 23 and an i10-index of 45. Her work has been cited more than 2100 times.</td>
-    <td class="tg-0lax"><img src="figures/santiago.jpg" width="1000" height="1000" alt="Santiago"/></td>
+    <td class="tg-0lax"><img src="figures/Ina.jpeg" width="1000" height="1000" alt="Ina"/></td>
   </tr>
   <tr>
     <td class="tg-0lax">Lead Facilitator</td>
     <td class="tg-0lax">Prof. John Odindi, University of KwaZulu-Natal</td>
     <td class="tg-0lax"><a href="mailto:odindij@ukzn.ac.za">odindij@ukzn.ac.za</a><br></td>
     <td class="tg-0lax">John Odindi is a professor of terrestrial remote sensing within the School of Agricultural, Earth and Environmental Sciences at the University of KwaZulu-Natal. His expertise are in vegetation pattern and condition analysis in the face of local and global change using remotely sensed datasets and approaches. He integrates ecology, biodiversity conservation and Remote sensing to model the impact of landscape transformation and invasive species on ecosystems. He is also interested in understanding the implication of urban green spaces on urban thermal micro- and macro climate in the face of climate change using optical and thermal remotely sensed data. His specific areas of interest include land use and land cover change, hyperspectral- and multi- spectral Remote Sensing of vegetation, urban green ecology in a changing global climate, quantification of urban ecosystem services using remotely sensed data and precision farming using hyper and multi-spectral data from aerial and satellite platforms.</td>
-    <td class="tg-0lax"><img src="figures/Sandra.png" width="1000" height="1000" alt="Sandra-Barteit"/></td>
+    <td class="tg-0lax"><img src="figures/JohnO.jpg" width="1000" height="1000" alt="JohnO"/></td>
   </tr>
   <tr>
     <td class="tg-0lax">Lead Facilitator</td>
     <td class="tg-0lax">Prof. Onisimo Mutanga, University of KwaZulu-Natal</td>
     <td class="tg-0lax"><a href="mailto:mutangao@ukzn.ac.za">mutangao@ukzn.ac.za</a><br></td>
     <td class="tg-0lax">Onisimo Mutanga is full Professor of Remote Sensing and SARChI Chair in Landuse Planning and Management in the School of Agriculture, Earth and Environmental Science at the University of KwaZulu- Natal. His expertise lies in resource modelling, and pattern and condition analysis in the face of global and land use change. These include vegetation quality and quantity assessment in both space and time using remote sensing for grazing resource management and climate change mitigation. He integrates ecology, biodiversity conservation and remote sensing to model, among others, the impact of forest fragmentation, pests and diseases and invasive species on ecosystems as an integral component of land use planning and management.</td>
-    <td class="tg-0lax"><img src="figures/Khan.png" width="1000" height="1000" alt="Khan"/></td>
+    <td class="tg-0lax"><img src="figures/Onisimo.jpeg" width="1000" height="1000" alt="Onisimo"/></td>
   </tr>
   <tr>
     <td class="tg-0lax">Facilitator</td>
     <td class="tg-0lax">Dr. Trylee Matongera </td>
     <td class="tg-0lax"><a href="mailto:matongerat@ukzn.ac.za">matongerat@ukzn.ac.za</a><br></td>
     <td class="tg-0lax">Trylee Matongera is a Postdoctoral Research Fellow at the Centre for Transformative Agriculture and Food Systems at the University of KwaZulu-Natal. His research interests lie in applying advanced machine learning and remote sensing techniques to better understand crop growth patterns and to develop more effective and efficient precision agriculture technologies. Specifically, he is interested in exploring the use of hyperspectral, LIDAR and multispectral imagery to detect and monitor crop health and nutrient deficiencies, as well as the use of unmanned aerial vehicles (UAVs) for precision mapping and monitoring of crops and agricultural fields. </td>
-    <td class="tg-0lax"><img src="figures/Mandla.png" width="1000" height="1000" alt="Mandla"/></td>
+    <td class="tg-0lax"><img src="figures/Trylee.png" width="1000" height="1000" alt="Trylee"/></td>
   </tr>
   <tr>
     <td class="tg-0lax">Teaching Assistant</td>
