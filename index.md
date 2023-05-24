@@ -39,7 +39,8 @@ title: Climate Change, Food System and Remote Sensing
 <tbody>
   <tr>
     <td class="tg-amwm">9:00-10:30 am</td>
-    <td class="tg-0lax">Welcome and overview of course and Introduction to concepts and indicators: Climate change and weather </td>
+    <td class="tg-0lax"> * Welcome and overview of course; 
+      * Introduction to concepts and indicators: Climate change and weather </td>
     <td class="tg-0lax">Introduction to Backpropagation and Multilayer Perceptrons (MLPs)</td>
     <td class="tg-0lax">MLPs in Python with Keras, Regularization</td>
     <td class="tg-0lax">Introduction to Convulutional Neural Networks (CNNs)</td>
