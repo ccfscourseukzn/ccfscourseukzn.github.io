@@ -218,7 +218,7 @@ title: Climate Change, Food System and Remote Sensing
   <tr>
     <td class="tg-0lax">Lead Facilitator </td>
     <td class="tg-0lax">Prof.  Wafaie Fawzi,
-Professor of Population Sciences, and Professor of Nutrition, Epidemiology, and Global Health, co-PI UKZN</td>
+Professor of Population Sciences, and Professor of Nutrition, Epidemiology, and Global Health, PI HSPH</td>
     <td class="tg-0lax"><a href="mailto:mina@hsph.harvard.edu"> mina@hsph.harvard.edu</a><br></td>
     <td class="tg-0lax"> Wafaie Fawzi’s research has generated significant new knowledge on the discovery and translation of interventions to enhance maternal and child health and human development, with emphasis on nutritional factors. His research includes the epidemiology of adverse pregnancy outcomes, childhood infections, and HIV, TB and malaria. He established the Nutrition and Global Health Program at Harvard T.H. Chan School of Public Health, that addresses and documents existing gaps; advances the research agenda; and convenes multi-disciplinary partners. He also developed two implementation science initiatives to advance adolescent health in Africa and Asia, and the intersectoral integration of agriculture, nutrition and health in Ethiopia and Tanzania. He established the Africa Research, Implementation Science, and Education (ARISE) Network, a partnership of leading academic institutions in Africa, and the China Harvard Africa Network (CHAN) to advance cutting-edge training of public health leaders through South-South-North institutional partnerships.
 <br></td>
@@ -226,8 +226,8 @@ Professor of Population Sciences, and Professor of Nutrition, Epidemiology, and 
   </tr>
   <tr>
     <td class="tg-0lax">Lead Facilitator</td>
-    <td class="tg-0lax">Dr. Santiago Romero-Brufau, Harvard T.H Chan School of Public Health</td>
-    <td class="tg-0lax"><a href="mailto:santiagoromerobrufau@hsph.harvard.edu">santiagoromerobrufau@hsph.harvard.edu</a><br></td>
+    <td class="tg-0lax">Prof. Ina Danquah, Heidelberg Institute of Global Health </td>
+    <td class="tg-0lax"><a href="mailto:ina.danquah@uni-heidelberg.de">ina.danquah@uni-heidelberg.de</a><br></td>
     <td class="tg-0lax">Santiago Romero-Brufau MD, PhD has a background in Medicine, Healthcare Systems Engineering, Informatics and Health Data Science. He is Assistant Professor of Otorhinolaryngology, and Healthcare Systems Engineering at Mayo Clinic. He is also Adjunct Assistant Professor of Biostatistics at the Harvard T. H. Chan School of Public Health, where he serves in the executive committee and teaches two of the core courses in the Master’s in Health Data Science. Dr. Romero-Brufau’s work is centered on developing and implementing machine-learning models and other data science solutions into clinical practice. His focus is on real-world applications as well as how to integrate advanced solutions into the clinical workflow and bridging the gap between model development and clinical and public health impact.</td>
     <td class="tg-0lax"><img src="figures/santiago.jpg" width="1000" height="1000" alt="Santiago"/></td>
   </tr>
@@ -235,7 +235,7 @@ Professor of Population Sciences, and Professor of Nutrition, Epidemiology, and 
     <td class="tg-0lax">Co-lead Facilitator</td>
     <td class="tg-0lax">Dr. Sandra Barteit, Training Director, Heidelberg Institute of Global Health, Germany</td>
     <td class="tg-0lax"><a href="mailto:barteit@uni-heidelberg.de">barteit@uni-heidelberg.de</a><br></td>
-    <td class="tg-0lax">My enthusiasm for Global Health led me to join the Heidelberg University Institute of Global Health as a full-time researcher in 2015. Currently, amongst many other projects, I am leading a project that implements novel measurements of wearables in vulnerable populations in Kenya and Burkina Faso to conduct cutting-edge climate change and health research, which helpd us gain new insights into the disease burden in poor populations facing exposure to climate change, such as heat or droughts. Furthermore, I lead the Blended Learning in Zambia (BLiZ) project that implements blended learning to strengthen medical education at the largest medical University in Zambia. In my research, I apply a variety of analytics models and cross-cutting analytics modeling concepts and cases.</td>
+    <td class="tg-0lax">Ina has trained in nutrition science and epidemiology and has obtained her PhD in Tropical Medicine from Charité – Universitaetsmedizin Berlin, Germany. She has strong research interests in dietary risk factors for infectious diseases, obesity and type 2 diabetes, particularly among African populations under transition. Ina leads a research group on climate change, nutrition and health with the ambition i) to define impacts on dietary habits and nutritional status, ii) to design, implement and evaluate climate change adaptation strategies, and iii) to determine the health co-benefits of climate change mitigation actions. Ina coordinates a large consortium on climate change and health in sub-Saharan Africa, and is Robert Bosch Junior Professor for Sustainable Nutrition in sub-Saharan Africa. She has published more than 90 peer-reviewed articles, has an h-index of 23 and an i10-index of 45. Her work has been cited more than 2100 times. </td>
     <td class="tg-0lax"><img src="figures/Sandra.png" width="1000" height="1000" alt="Sandra-Barteit"/></td>
   </tr>
   <tr>
