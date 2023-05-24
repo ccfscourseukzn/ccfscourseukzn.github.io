@@ -135,8 +135,8 @@ title: Climate Change, Food System and Remote Sensing
     <td class="tg-0lax"> Methodological challenges-Identifying the impacts of climate change on dietary habits and nutritional status </td>
     <td class="tg-0lax">Drive solutions for climate change adaptation-Examples of intervention project. <br> Practical example: MEGA in Dodoma </td>
     <td class="tg-0lax"> Presentation of own research ideas and methodological challenges; selecting 4 project ideas to be worked on</td>
-    <td class="tg-0lax">Introduction to Transformers and Transfer Learning</td>
-    <td class="tg-0lax">Project Competition</td>
+    <td class="tg-0lax"> Creating Map Outputs</td>
+    <td class="tg-0lax"> Supervised Classification  Cont'd. </td>
   </tr>
   <tr>
     <td class="tg-amwm">10:30-10:45 am</td>
@@ -151,8 +151,8 @@ title: Climate Change, Food System and Remote Sensing
     <td class="tg-0lax"> Methodological Solutions - Dimension reduction techniques to identify climate change impacts </td>
     <td class="tg-0lax"> Practical Example: Linear optimization modelling for sustainable diets among Ghanaian migrants</td>
     <td class="tg-0lax">Tutored group work to derive methodological solutions for 4 project ideas</td>
-    <td class="tg-0lax">Introduction to Transformers and Transfer Learning</td>
-    <td class="tg-0lax">Project Competition</td>
+    <td class="tg-0lax"> Handling remotely sensed data in QGIS</td>
+    <td class="tg-0lax"> Introduction and Calculation of Vegetation Indices </td>
   </tr>
   <tr>
     <td class="tg-amwm">12:00-1:00 pm</td>
@@ -168,8 +168,8 @@ title: Climate Change, Food System and Remote Sensing
     <td class="tg-0lax"> Derive solutions for climate change mitigation - Optimization modelling and substitution approaches for sustainable diets. <br> 
     Sustainable dietary weight loss approach </td>
     <td class="tg-0lax">Introduction to QGIS</td>
-    <td class="tg-0lax">Pre-Trained Models, Fine-Tuning</td>
-    <td class="tg-0lax">Course Evaluation</td>
+    <td class="tg-0lax">Unspervised Classification </td>
+    <td class="tg-0lax">Synthesis (recap) and Course Evaluation</td>
   </tr>
   <tr>
     <td class="tg-amwm">2:15-2:30 pm</td>
@@ -184,7 +184,7 @@ title: Climate Change, Food System and Remote Sensing
     <td class="tg-0lax">Methodological Solutions- Down-scaled climate change impacts models</td>
     <td class="tg-0lax"> TBD Session</td>
     <td class="tg-0lax"> Spatial data entry and preparation </td>
-    <td class="tg-0lax">Lab Session</td>
+    <td class="tg-0lax"> Supervised Classification </td>
     <td class="tg-0lax">Closing Ceremony</td>
   </tr>
 </tbody>
