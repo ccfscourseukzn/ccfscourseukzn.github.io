@@ -39,7 +39,7 @@ title: Climate Change, Food System and Remote Sensing
 <tbody>
   <tr>
     <td class="tg-amwm">9:00-10:30 am</td>
-    <td class="tg-0lax">Introduction to Deep Learning</td>
+    <td class="tg-0lax">Welcome and overview of course and Introduction to concepts and indicators: Climate change and weather </td>
     <td class="tg-0lax">Introduction to Backpropagation and Multilayer Perceptrons (MLPs)</td>
     <td class="tg-0lax">MLPs in Python with Keras, Regularization</td>
     <td class="tg-0lax">Introduction to Convulutional Neural Networks (CNNs)</td>
@@ -57,7 +57,7 @@ title: Climate Change, Food System and Remote Sensing
   </tr>
   <tr>
     <td class="tg-amwm">10:45-12:00 pm</td>
-    <td class="tg-0lax">Deep Learning vs Machine Learning, Unsupoervised Machine Learning</td>
+    <td class="tg-0lax"> Practical: Using public databases for climate change and weather </td>
     <td class="tg-0lax">Activation Functions</td>
     <td class="tg-0lax">MLPs in Python with Keras, Regularization</td>
     <td class="tg-0lax">Convlution, Pooling, and Fully Connected Layers</td>
@@ -73,9 +73,11 @@ title: Climate Change, Food System and Remote Sensing
     <td class="tg-0lax">Lunch</td>
     <td class="tg-0lax">Lunch</td>
   </tr>
+  Introduction to concepts and indicators: 
+•	Environmental footprints of foods
   <tr>
     <td class="tg-amwm">1:00-2:15 pm</td>
-    <td class="tg-0lax">Neural Networks Architecture Basics</td>
+    <td class="tg-0lax">Introduction to concepts and indicators: Environmental footprints of foods </td>
     <td class="tg-0lax">Regularization Techniques</td>
     <td class="tg-0lax">MLPs in Python with Keras, Regularization</td>
     <td class="tg-0lax">Data Agumentation using Pretrained Networks</td>
@@ -93,7 +95,7 @@ title: Climate Change, Food System and Remote Sensing
   </tr>
   <tr>
     <td class="tg-amwm">2:30-3:45 pm</td>
-    <td class="tg-0lax">Simple Example of Deep Learning in Global Health Research</td>
+    <td class="tg-0lax">Practical: Using public databases for life-cycle assessment of foods </td>
     <td class="tg-0lax">Lab Session</td>
     <td class="tg-0lax">Lab Session</td>
     <td class="tg-0lax">Lab Session</td>
