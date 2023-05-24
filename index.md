@@ -42,8 +42,8 @@ title: Climate Change, Food System and Remote Sensing
     <td class="tg-0lax"> 1.Welcome and overview of course <br> 
        2.Introduction to concepts and indicators: Climate change and weather </td>
     <td class="tg-0lax"> Definition  and History of Remote Sensing </td>
-    <td class="tg-0lax">MLPs in Python with Keras, Regularization</td>
-    <td class="tg-0lax">Introduction to Convulutional Neural Networks (CNNs)</td>
+    <td class="tg-0lax"> Satellite image pre-processing </td>
+    <td class="tg-0lax">Introduction to concepts and indicators: Food Systems </td>
     <td class="tg-0lax">CNNs Basics, Fine Tuning and Visualzing the CNNs Model</td>
     <td class="tg-0lax">Group Discussion & Mini Project (in Global Health and Climate Change)</td>
   </tr>
@@ -60,8 +60,8 @@ title: Climate Change, Food System and Remote Sensing
     <td class="tg-amwm">10:45-12:00 pm</td>
     <td class="tg-0lax"> Practical: Using public databases for climate change and weather </td>
     <td class="tg-0lax"> Energy interactions with  objectives</td>
-    <td class="tg-0lax">MLPs in Python with Keras, Regularization</td>
-    <td class="tg-0lax">Convlution, Pooling, and Fully Connected Layers</td>
+    <td class="tg-0lax"> Unsupervised Image Classification </td>
+    <td class="tg-0lax"> Practical: Interpret country profiles of the Food Systems Dashboard </td>
     <td class="tg-0lax">CNNs Basics, Fine Tuning and Visualzing the CNNs Model</td>
     <td class="tg-0lax">Group Discussion & Mini Project (in Global Health and Climate Change)</td>
   </tr>
@@ -80,8 +80,8 @@ title: Climate Change, Food System and Remote Sensing
     <td class="tg-amwm">1:00-2:15 pm</td>
     <td class="tg-0lax">Introduction to concepts and indicators: Environmental footprints of foods </td>
     <td class="tg-0lax"> Sensors and Platforms </td>
-    <td class="tg-0lax">MLPs in Python with Keras, Regularization</td>
-    <td class="tg-0lax">Data Agumentation using Pretrained Networks</td>
+    <td class="tg-0lax"> Supervised Image Classification </td>
+    <td class="tg-0lax"> Introduction to concepts and indicators: Nutritional status and Dietary Behaviours </td>
     <td class="tg-0lax">Training and Testing Models on Sample Datasets</td>
     <td class="tg-0lax">Group Discussion & Mini Project (in Global Health and Climate Change)</td>
   </tr>
@@ -98,8 +98,8 @@ title: Climate Change, Food System and Remote Sensing
     <td class="tg-amwm">2:30-3:45 pm</td>
     <td class="tg-0lax">Practical: Using public databases for life-cycle assessment of foods </td>
     <td class="tg-0lax"> Resolutions in remote sensing </td>
-    <td class="tg-0lax">Lab Session</td>
-    <td class="tg-0lax">Lab Session</td>
+    <td class="tg-0lax">Supervised Image Classification (Cont'd)</td>
+    <td class="tg-0lax"> Practical: How to compute overall diet quality indicators </td>
     <td class="tg-0lax">Lab Session</td>
     <td class="tg-0lax">Group Discussion & Mini Project (in Global Health and Climate Change)</td>
   </tr>
