@@ -33,7 +33,7 @@ title: Climate Change, Food System and Remote Sensing
     <th class="tg-amwm">Wednesday 12/07</th>
     <th class="tg-amwm">Thursday 13/07</th>
     <th class="tg-amwm">Friday 14/07</th>
-    <th class="tg-amwm">Saturday 15/07</th>
+   
   </tr>
 </thead>
 <tbody>
@@ -44,8 +44,8 @@ title: Climate Change, Food System and Remote Sensing
     <td class="tg-0lax"> Definition  and History of Remote Sensing </td>
     <td class="tg-0lax"> Satellite image pre-processing </td>
     <td class="tg-0lax">Introduction to concepts and indicators: Food Systems </td>
-    <td class="tg-0lax">CNNs Basics, Fine Tuning and Visualzing the CNNs Model</td>
-    <td class="tg-0lax">Group Discussion & Mini Project (in Global Health and Climate Change)</td>
+    <td class="tg-0lax"> Self-Study: Massive Open Online Course on Research Methods for the study of Climate Change and Health </td>
+    
   </tr>
   <tr>
     <td class="tg-amwm">10:30-10:45 am</td>
@@ -54,7 +54,7 @@ title: Climate Change, Food System and Remote Sensing
     <td class="tg-0lax">Break</td>
     <td class="tg-0lax">Break</td>
     <td class="tg-0lax">Break</td>
-    <td class="tg-0lax">Break</td>
+    
   </tr>
   <tr>
     <td class="tg-amwm">10:45-12:00 pm</td>
@@ -62,8 +62,8 @@ title: Climate Change, Food System and Remote Sensing
     <td class="tg-0lax"> Energy interactions with  objectives</td>
     <td class="tg-0lax"> Unsupervised Image Classification </td>
     <td class="tg-0lax"> Practical: Interpret country profiles of the Food Systems Dashboard </td>
-    <td class="tg-0lax">CNNs Basics, Fine Tuning and Visualzing the CNNs Model</td>
-    <td class="tg-0lax">Group Discussion & Mini Project (in Global Health and Climate Change)</td>
+    <td class="tg-0lax">Self-Study: Massive Open Online Course on Research Methods for the study of Climate Change and Health</td>
+    
   </tr>
   <tr>
     <td class="tg-amwm">12:00-1:00 pm</td>
@@ -72,7 +72,7 @@ title: Climate Change, Food System and Remote Sensing
     <td class="tg-0lax">Lunch</td>
     <td class="tg-0lax">Lunch</td>
     <td class="tg-0lax">Lunch</td>
-    <td class="tg-0lax">Lunch</td>
+    
   </tr>
   Introduction to concepts and indicators: 
 •	Environmental footprints of foods
@@ -82,8 +82,8 @@ title: Climate Change, Food System and Remote Sensing
     <td class="tg-0lax"> Sensors and Platforms </td>
     <td class="tg-0lax"> Supervised Image Classification </td>
     <td class="tg-0lax"> Introduction to concepts and indicators: Nutritional status and Dietary Behaviours </td>
-    <td class="tg-0lax">Training and Testing Models on Sample Datasets</td>
-    <td class="tg-0lax">Group Discussion & Mini Project (in Global Health and Climate Change)</td>
+    <td class="tg-0lax">Self-Study: Massive Open Online Course on Research Methods for the study of Climate Change and Health</td>
+    
   </tr>
   <tr>
     <td class="tg-amwm">2:15-2:30 pm</td>
@@ -92,7 +92,7 @@ title: Climate Change, Food System and Remote Sensing
     <td class="tg-0lax">Break</td>
     <td class="tg-0lax">Break</td>
     <td class="tg-0lax">Break</td>
-    <td class="tg-0lax">Break</td>
+    
   </tr>
   <tr>
     <td class="tg-amwm">2:30-3:45 pm</td>
@@ -100,8 +100,8 @@ title: Climate Change, Food System and Remote Sensing
     <td class="tg-0lax"> Resolutions in remote sensing </td>
     <td class="tg-0lax">Supervised Image Classification (Cont'd)</td>
     <td class="tg-0lax"> Practical: How to compute overall diet quality indicators </td>
-    <td class="tg-0lax">Lab Session</td>
-    <td class="tg-0lax">Group Discussion & Mini Project (in Global Health and Climate Change)</td>
+    <td class="tg-0lax"> Self-Study: Massive Open Online Course on Research Methods for the study of Climate Change and Health </td>
+    
   </tr>
 </tbody>
 </table>
