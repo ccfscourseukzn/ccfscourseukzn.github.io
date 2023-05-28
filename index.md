@@ -245,6 +245,22 @@ Professor of Population Sciences, and Professor of Nutrition, Epidemiology, and 
     <td class="tg-0lax">Onisimo Mutanga is full Professor of Remote Sensing and SARChI Chair in Landuse Planning and Management in the School of Agriculture, Earth and Environmental Science at the University of KwaZulu- Natal. His expertise lies in resource modelling, and pattern and condition analysis in the face of global and land use change. These include vegetation quality and quantity assessment in both space and time using remote sensing for grazing resource management and climate change mitigation. He integrates ecology, biodiversity conservation and remote sensing to model, among others, the impact of forest fragmentation, pests and diseases and invasive species on ecosystems as an integral component of land use planning and management.</td>
     <td class="tg-0lax"><img src="figures/Onisimo.jpeg" width="1000" height="1000" alt="Onisimo"/></td>
   </tr>
+   <tr>
+    <td class="tg-0lax">Facilitator</td>
+    <td class="tg-0lax">Dr. Isabel Madzorera </td>
+    <td class="tg-0lax"><a href="mailto:imadzorera@berkeley.edu">imadzorera@berkeley.edu</a><br></td>
+    <td class="tg-0lax">Dr. Isabel Madzorera is an Assistant Professor in Public Health Nutrition at the University of California, Berkeley, in the division of Community Health Sciences. Dr. Madzorera is a nutrition epidemiologist with interests in the intersection of food systems, nutrition and sustainable diets in low- and middle-income countries (LMICs). The goals of her research program are to utilize advanced nutrition epidemiologic methods to assess diet quality as a key modifiable risk factor for poor maternal and child health outcomes in LMICs, and to identify the role of food systems and other contributing factors to the triple burden of malnutrition in these contexts. Dr. Madzorera has led global health research focusing on the evaluation of food systems and diet quality, and their influence on maternal and child health.  Her previous research has included evaluating the role of maternal diet quality during pregnancy and its impacts on the risk of low birth weight, small for gestational age and preterm births, and also assessing the effect of COVID-19 on food prices and diets. Dr. Madzorera has extensive field-based experience including leading maternal and child nutrition interventions in sub-Saharan Africa. She has spent considerable time working in Zimbabwe, Zambia, Malawi, and Mozambique and conducted research in Tanzania and Ethiopia. Dr. Madzorera has an ScD in Nutritional Epidemiology from the Harvard School of Public Health. 
+ </td>
+    <td class="tg-0lax"><img src="figures/Trylee.png" width="1000" height="1000" alt="Trylee"/></td>
+  </tr>
+   <tr>
+    <td class="tg-0lax">Facilitator</td>
+    <td class="tg-0lax">Dr. Trylee Matongera </td>
+    <td class="tg-0lax"><a href="mailto:matongerat@ukzn.ac.za">matongerat@ukzn.ac.za</a><br></td>
+    <td class="tg-0lax">Trylee Matongera is a Postdoctoral Research Fellow at the Centre for Transformative Agriculture and Food Systems at the University of KwaZulu-Natal. His research interests lie in applying advanced machine learning and remote sensing techniques to better understand crop growth patterns and to develop more effective and efficient precision agriculture technologies. Specifically, he is interested in exploring the use of hyperspectral, LIDAR and multispectral imagery to detect and monitor crop health and nutrient deficiencies, as well as the use of unmanned aerial vehicles (UAVs) for precision mapping and monitoring of crops and agricultural fields. </td>
+    <td class="tg-0lax"><img src="figures/Trylee.png" width="1000" height="1000" alt="Trylee"/></td>
+  </tr>
+  
   <tr>
     <td class="tg-0lax">Facilitator</td>
     <td class="tg-0lax">Dr. Trylee Matongera </td>
