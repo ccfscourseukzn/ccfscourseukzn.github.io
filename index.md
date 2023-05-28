@@ -122,11 +122,11 @@ title: Climate Change, Food System and Remote Sensing
 <thead>
   <tr>
     <th class="tg-amwm">Time</th>
-    <th class="tg-amwm">Monday 03/07</th>
-    <th class="tg-amwm">Tuesday 04/07</th>
-    <th class="tg-amwm">Wednesday 05/07</th>
-    <th class="tg-amwm">Thursday 06/07</th>
-    <th class="tg-amwm">Friday 07/07</th>
+    <th class="tg-amwm">Monday 17/07</th>
+    <th class="tg-amwm">Tuesday 18/07</th>
+    <th class="tg-amwm">Wednesday 19/07</th>
+    <th class="tg-amwm">Thursday 20/07</th>
+    <th class="tg-amwm">Friday 21/07</th>
   </tr>
 </thead>
 <tbody>
