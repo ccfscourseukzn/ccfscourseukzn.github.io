@@ -264,26 +264,13 @@ Professor of Population Sciences, and Professor of Nutrition, Epidemiology, and 
   </tr>
   
   <tr>
-    <td class="tg-0lax">Facilitator</td>
-    <td class="tg-0lax">Dr. Trylee Matongera </td>
-    <td class="tg-0lax"><a href="mailto:matongerat@ukzn.ac.za">matongerat@ukzn.ac.za</a><br></td>
-    <td class="tg-0lax">Trylee Matongera is a Postdoctoral Research Fellow at the Centre for Transformative Agriculture and Food Systems at the University of KwaZulu-Natal. His research interests lie in applying advanced machine learning and remote sensing techniques to better understand crop growth patterns and to develop more effective and efficient precision agriculture technologies. Specifically, he is interested in exploring the use of hyperspectral, LIDAR and multispectral imagery to detect and monitor crop health and nutrient deficiencies, as well as the use of unmanned aerial vehicles (UAVs) for precision mapping and monitoring of crops and agricultural fields. </td>
-    <td class="tg-0lax"><img src="figures/Trylee.png" width="1000" height="1000" alt="Trylee"/></td>
-  </tr>
-  <tr>
     <td class="tg-0lax">Teaching Assistant</td>
     <td class="tg-0lax">Dr. Gabriel Kallah-Dagadu, DSI postdoc</td>
     <td class="tg-0lax"><a href="mailto:kallahdagadug@ukzn.ac.za">kallahdagadug@ukzn.ac.za</a><br></td>
     <td class="tg-0lax">Gabriel Kallah-Dagadu holds a Ph.D. in Statistics from the University of Cape Coast, Ghana. Gabriel is Lecturer at the University of Ghana and has eight years of teaching and supervising experience in Statistics, Probability, and Data Science. He is currently a postdoctoral fellow in the DSI-Africa Training program on Health Data Science project hosted by the University of KwaZulu-Natal, South Africa, Harvard T. H. Chan School of Public Health, USA, and Heidelberg Institute of Global Health, Germany. His research interest are centered on applied probability, computational statistics, and machine learning with real-life applications to health, climate change, and finance. He has published scientific and peer-reviewed articles in local and international journals.</td>
     <td class="tg-0lax"><img src="figures/Gabriel.png" width="1000" height="1000" alt="Gabriel"/></td>
   </tr>
-  <tr>
-    <td class="tg-0lax">Teaching Assistant</td>
-    <td class="tg-0lax">Dr. Mohanad Mohammed, DSI postdoc</td>
-    <td class="tg-0lax"><a href="mailto:mohammedm1@ukzn.ac.za">mohammedm1@ukzn.ac.za</a><br></td>
-    <td class="tg-0lax">Mohanad Mohammed earned his PhD from the School of Mathematics, Statistics, and Computer Science (SMSCS), specializing in Statistics at the University of KwaZulu-Natal (UKZN) in 2022. During his MSc and PhD studies, he worked as a tutor and an Adhoc lecturer in SMSCS at the same university, which continued from 2019 to 2022. He is currently a post-doc fellow working on a health data science project hosted by UKZN in collaboration with Harvard T. H. Chan, School of Public Health, USA, and Heidelberg University and Germany. His research has focused on developing and applying statistical methods in genomics, genetics, public health, and the environment. He is interested in contributing to a deeper understanding of cancer disease modeling using gene expression data to facilitate decision-making concerning diagnosis, treatment, and care. In addition, Mohammed has authored and co-authored many articles, ten of which have been published in reputable journals and conference papers. He has attended and presented at various international and local workshops and conferences and is an active member of the biostatistics team under the MASAMU program.</td>
-    <td class="tg-0lax"><img src="figures/Mohanad_Mohammed.jpg" width="1000" height="1000" alt="Mohanad"/></td>
-  </tr>
+  
 </tbody>
 </table>
 
