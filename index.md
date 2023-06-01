@@ -10,7 +10,7 @@ title: Climate Change, Food System and Remote Sensing
 
 ##### Venue: [Garden Court, Umhlanga,](https://www.southernsun.com/garden-court-umhlanga) Corner of Aurora Drive and Centenary Boulevard, Umhlanga Rocks, Kwazulu-Natal, South Africa.
 
-##### Please use the following link: [ZOOM LINK](link will be provided later).
+##### Please use the following link: [ZOOM LINK](https://harvard.zoom.us/meeting/register/tJUkce6tqjsvHNydfIXyERdbS2CJvk5ppazy).
 
 
 #### Lectures Schedule 
