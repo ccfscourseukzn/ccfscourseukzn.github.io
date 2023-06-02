@@ -26,11 +26,22 @@ Email: <a href="mailto:mutangao@ukzn.ac.za">mutangao@ukzn.ac.za</a> <br>
 
 <h4 style="color:DodgerBlue;"> Dr. Sandra Barteit, Facilitator, Training Director HIGH </h4> 
 Email: <a href="mailto:barteit@uni-heidelberg.de">barteit@uni-heidelberg.de</a> <br>
-<p align="justify"> <img src="../figures/Sandra.jpg" alt="Sandra" style="float:left; width:50px; height:50px; padding: 10px;"><span style="vertical-align:bottom"> Research Group Leader for Digital Global Health Heidelberg Institute of Global Health, Germany. </span>  Visit <a href="https://www.klinikum.uni-heidelberg.de/index.php?id=143349&no_cache=1&type=98"><span style="text-align:center">Dr. Barteit's website </span></a> for more information about her work. </p> <br> 
+<p align="justify"> <img src="../figures/Sandra.jpg" alt="Sandra" style="float:left; width:50px; height:50px; padding: 10px;"><span style="vertical-align:bottom"> Research Group Leader for Digital Global Health Heidelberg Institute of Global Health, Germany. </span> <br> Visit <a href="https://www.klinikum.uni-heidelberg.de/index.php?id=143349&no_cache=1&type=98"><span style="text-align:center">Dr. Barteit's website </span></a> for more information about her work. </p> <br> 
 
 <h4 style="color:DodgerBlue;"> Dr. Bernd Franke, Facilitator </h4> 
-Email: <a href="mailto:barteit@uni-heidelberg.de">barteit@uni-heidelberg.de</a> <br>
 <p align="justify"> <img src="../figures/Franke.png" alt="Franke" style="float:left; width:50px; height:50px;padding: 10px;"><span style="vertical-align:bottom"> Scientific Director Institute for Energy and Environmental Research (IFEU). </span> <br> Visit <a href="https://www.ifeu.de/en/staff/detail/bernd-franke"><span style="text-align:center">Dr. Franke's website</span></a> for more information about her work. </p> <br>
+
+<h4 style="color:DodgerBlue;"> Dr. Fred Hattermann, Facilitator </h4> 
+<p align="justify"> <img src="../figures/Fred.png" alt="Fred" style="float:left; width:50px; height:50px;padding: 10px;"><span style="vertical-align:bottom"> SDeputy Head, Research Department (Climate Resilience) Potsdam Institute for Climate Impact Research. </span> <br> Visit <a href="https://www.pik-potsdam.de/members/fred"><span style="text-align:center">Dr. Hattermann's website</span></a> for more information about her work. </p> <br>
+
+<h4 style="color:DodgerBlue;"> Dr. Irmgard Jordan, Facilitator </h4> 
+<p align="justify"> <img src="../figures/Jordan.jpg" alt="Jordan" style="float:left; width:50px; height:50px;padding: 10px;"><span style="vertical-align:bottom"> Human Nutrition and Home Economic Scientist – CIM Expert Alliance Bioversity & CIAT. </span> <br> Visit <a href="https://alliancebioversityciat.org/who-we-are/irmgard-jordan"><span style="text-align:center">Dr. Jordan's website</span></a> for more information about her work. </p> <br>
+
+<h4 style="color:DodgerBlue;"> Dr. Isabel Madzorera, Facilitator </h4> 
+<p align="justify"> <img src="../figures/IMadzorera Potrait.jpg" alt="IMadzorera Potrait" style="float:left; width:50px; height:50px;padding: 10px;"><span style="vertical-align:bottom"> Assistant Professor in Public Health Nutrition, University of California, Berkeley. </span> <br> Visit <a href="https://publichealth.berkeley.edu/people/isabel-madzorera/"><span style="text-align:center">Dr. Madzorera's website</span></a> for more information about her work. </p> <br>
+
+<h4 style="color:DodgerBlue;"> Dr. Gabriel Kallah-Dagadu, Facilitator </h4> 
+<p align="justify"> <img src="../figures/Gabriel.png" alt="Gabriel" style="float:left; width:50px; height:50px;padding: 10px;"><span style="vertical-align:bottom"> WASHU Takwimu Postdoctoral Fellow, University of KwaZulu-Natal. </span> <br>
 
 
 
