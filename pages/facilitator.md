@@ -48,7 +48,8 @@ Email: <a href="mailto:barteit@uni-heidelberg.de">barteit@uni-heidelberg.de</a> 
 <p align="justify"> <img src="../figures/Mank.png" alt="Mank" style="float:left; width:50px; height:50px;padding: 10px;"><span style="vertical-align:bottom"> Evaluator, German Institute for Development Evaluation,
   Germany </span> <br> Visit <a href="https://www.deval.org/en/about-us/who-we-are/team/isabel-mank"><span style="text-align:center">Dr. Madzorera's website</span></a> for more information about her work. </p> <br>
 
-
+<h4 style="color:DodgerBlue;"> Dr. Trylee Matongera, Facilitator </h4> 
+<p align="justify"> <img src="../figures/Trylee.png" alt="Trylee" style="float:left; width:50px; height:50px;padding: 10px;"><span style="vertical-align:bottom"> Postdoctoral Research Fellow at the Centre for Transformative Agriculture and Food Systems, <br> University of KwaZulu-Natal. </span> </p> <br>
 
 
 
