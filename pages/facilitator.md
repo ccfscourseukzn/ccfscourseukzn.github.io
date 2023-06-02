@@ -27,12 +27,11 @@ Email: <a href="mailto:mutangao@ukzn.ac.za">mutangao@ukzn.ac.za</a> <br>
 
 <h4 style="color:DodgerBlue;"> Dr. Sandra Barteit, Facilitator, Training Director HIGH </h4> 
 Email: <a href="mailto:barteit@uni-heidelberg.de">barteit@uni-heidelberg.de</a> <br>
-<p align="justify"> <img src="../figures/Sandra.jpg" alt="Sandra" style="float:left; width:120px; height:120px; padding: 10px;"><span style="vertical-align:bottom"> Research Group Leader for Digital Global Health Heidelberg Institute of Global Health, Germany. </span> <br> Visit <a href="https://www.klinikum.uni-heidelberg.de/index.php?id=143349&no_cache=1&type=98"><span style="text-align:center">Dr. Barteit's website</span></a> for more information about her work. </p> <br>
+<p align="justify"> <img src="../figures/Sandra.jpg" alt="Sandra" style="float:left; width:120px; height:120px; padding: 10px;"><span style="vertical-align:bottom"> Research Group Leader for Digital Global Health Heidelberg Institute of Global Health, Germany. </span> <span  Visit <a href="https://www.klinikum.uni-heidelberg.de/index.php?id=143349&no_cache=1&type=98"><span style="text-align:center">Dr. Barteit's website </a> for more information about her work. </p> </span> 
 
 <h4 style="color:DodgerBlue;"> Dr. Bernd Franke, Facilitator </h4> 
 Email: <a href="mailto:barteit@uni-heidelberg.de">barteit@uni-heidelberg.de</a> <br>
-<p align="justify"> <img src="../figures/Franke.png" alt="Franke" style="float:left; width:120px; height:120px; padding: 10px;"><span style="vertical-align:bottom"> Scientific Director
-Institute for Energy and Environmental Research (IFEU). </span> <br> Visit <a href="https://www.ifeu.de/en/staff/detail/bernd-franke"><span style="text-align:center">Dr. Franke's website</span></a> for more information about her work. </p> <br>
+<p align="justify"> <img src="../figures/Franke.png" alt="Franke" style="float:left; width:120px; height:120px; padding: 10px;"><span style="vertical-align:bottom"> Scientific Director Institute for Energy and Environmental Research (IFEU). </span> <br> Visit <a href="https://www.ifeu.de/en/staff/detail/bernd-franke"><span style="text-align:center">Dr. Franke's website</span></a> <span for more information about her work. </p></span> <br>
 
 
 
