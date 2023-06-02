@@ -41,7 +41,7 @@ Email: <a href="mailto:barteit@uni-heidelberg.de">barteit@uni-heidelberg.de</a> 
 <p align="justify"> <img src="../figures/IMadzorera Potrait.jpg" alt="IMadzorera Potrait" style="float:left; width:50px; height:50px;padding: 10px;"><span style="vertical-align:bottom"> Assistant Professor in Public Health Nutrition, University of California, Berkeley. </span> <br> Visit <a href="https://publichealth.berkeley.edu/people/isabel-madzorera/"><span style="text-align:center">Dr. Madzorera's website</span></a> for more information about her work. </p> <br>
 
 <h4 style="color:DodgerBlue;"> Dr. Gabriel Kallah-Dagadu, Facilitator </h4> 
-Email: <a href="mailto:kallahdagadug@ukzn.ac.za">kallahdagadug@ukzn.ac.za</a> <br>
+
 <p align="justify"> <img src="../figures/Gabriel.png" alt="Gabriel" style="float:left; width:50px; height:50px;padding: 10px;"><span style="vertical-align:bottom"> WASHU Takwimu Postdoctoral Fellow,<br> University of KwaZulu-Natal. </span> <br>
 
 
