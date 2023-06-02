@@ -3,10 +3,12 @@ layout: frontpage
 title: Climate Change, Food System and Remote Sensing
 ---
 
-## Data Science Initiative for Africa (DSI-A) Training Programme
+<h1 style="background-color:white; color:black; text-align: center;">  Data Science Initiative for Africa (DSI-A) Training Programme </h1><br>
 
-### <h4 style="color:DodgerBlue;"> A Short Course in Climate Change, Food systems and Remote Sensing with a focus on Health Data Science </h4> 
 
+<h2 style="background-color:white; color:black; text-align: center;">  A Short Course in Climate Change, Food systems and Remote Sensing with a focus on Health Data Science </h2> <br>
+
+<h4 style="background-color:Tomato; color:white; text-align: center;"> Note: Lectures will start from 9:00 AM - 4:30 PM for  each Day. </h4> <br>
 
 #### Dates: Monday 10th July- Friday 21st July 2023
 
