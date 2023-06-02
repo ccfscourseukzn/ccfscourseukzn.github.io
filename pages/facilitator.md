@@ -27,20 +27,13 @@ Email: <a href="mailto:mutangao@ukzn.ac.za">mutangao@ukzn.ac.za</a> <br>
 
 <h4 style="color:DodgerBlue;"> Dr. Sandra Barteit, Facilitator, Training Director HIGH </h4> 
 Email: <a href="mailto:barteit@uni-heidelberg.de">barteit@uni-heidelberg.de</a> <br>
-<p align="justify"> <img src="../figures/Sandra.png" alt="Sandra" style="float:left; width:120px; height:120px; padding: 10px;"><span style="vertical-align:bottom"> Research Group Leader for Digital Global Health Heidelberg Institute of Global Health, Germany. </span> <br> Visit <a href="https://www.klinikum.uni-heidelberg.de/index.php?id=143349&no_cache=1&type=98"><span style="text-align:center">Dr. Barteit's website</span></a> for more information about her work. </p> <br>
+<p align="justify"> <img src="../figures/Sandra.jpg" alt="Sandra" style="float:left; width:120px; height:120px; padding: 10px;"><span style="vertical-align:bottom"> Research Group Leader for Digital Global Health Heidelberg Institute of Global Health, Germany. </span> <br> Visit <a href="https://www.klinikum.uni-heidelberg.de/index.php?id=143349&no_cache=1&type=98"><span style="text-align:center">Dr. Barteit's website</span></a> for more information about her work. </p> <br>
 
+<h4 style="color:DodgerBlue;"> Dr. Bernd Franke, Facilitator </h4> 
+Email: <a href="mailto:barteit@uni-heidelberg.de">barteit@uni-heidelberg.de</a> <br>
+<p align="justify"> <img src="../figures/Franke.png" alt="Franke" style="float:left; width:120px; height:120px; padding: 10px;"><span style="vertical-align:bottom"> Scientific Director
+Institute for Energy and Environmental Research (IFEU). </span> <br> Visit <a href="https://www.ifeu.de/en/staff/detail/bernd-franke"><span style="text-align:center">Dr. Franke's website</span></a> for more information about her work. </p> <br>
 
-<h4 style="color:DodgerBlue;"> Dr. Mandlenkosi Gwetu, Facilitator </h4>
-Senior Lecturer and Academic Leader for Computer Science, UKZN, South Africa. <br>
-Email: <a href="mailto:Gwetum@ukzn.ac.za">Gwetum@ukzn.ac.za</a> <br>
-<p align="justify"> <img src="../figures/Mandla.png" alt="Mandla" style="float:left; width:100px; height:100px; padding: 10px;"><span style="vertical-align:bottom"> Mandla Gwetu is a Computer Scientist with over 10 years of academic experience. He is also an alumnus of the Heidelberg Laureate Forum and holds a Doctoral Degree in Computer Science. He currently serves as the Academic Leader for Computer Science at UKZN. His research focus lies mainly in the computational aspects of computer vision and machine learning. He currently supervises several PhD &amp; MSc students in these areas. Mandla holds industry certifications in Java and AWS. He is an experienced reviewer of several Computer Science Journal and international conferences. </span> Visit <a href="https://smscs.ukzn.ac.za/mandlenkosi-gwetu/"><span style="text-align:center">Dr. Gwetu's website</span></a> for more information about his work. </p> <br>
-
-
-<h4 style="color:DodgerBlue;"> Dr. Palwasha Khan, Facilitator </h4>
-Head of informatics at African Health Research Institute, Data Science Unit, South Africa. <br>
-Clinical Associate Professor in Infectious Disease Epidemiology at London School of Hygiene & Tropical Medicine. <br>
-Email: <a href="mailto:palwasha.khan@ahri.org">palwasha.khan@ahri.org</a> <br>
-<p align="justify"> <img src="../figures/Khan.png" alt="Khan" style="float:left; width:100px; height:100px; padding: 10px;"><span style="vertical-align:bottom"> Palwasha Khan is a Clinical Associate Professor in Infectious Disease Epidemiology at London School of Hygiene &amp; Tropical Medicine and a clinical epidemiologist with Interactive Research &amp; Development primarily working at the clinical academia-implementation interface. She is currently seconded to the Africa Health Research Institute (AHRI) in Kwa-Zulu Natal as head of the Health Informatics section of the AHRI Data Science Unit. Her research interests include combining field epidemiological studies and programmatic electronic health data to further understanding of Mycobacterium tuberculosis transmission at a population-level. </span> Visit <a href="https://www.hdruk.ac.uk/people/dr-palwasha-khan/"><span style="text-align:center">Dr. Khan's website</span></a> for more information about her work. </p> <br>
 
 
 <h4 style="color:DodgerBlue;"> Dr. Gabriel Kallah-Dagadu, Teaching Assistant </h4>
