@@ -29,7 +29,8 @@ Email: <a href="mailto:mutangao@ukzn.ac.za">mutangao@ukzn.ac.za</a> <br>
 Email: <a href="mailto:barteit@uni-heidelberg.de">barteit@uni-heidelberg.de</a> <br>
 <p align="justify"> <img src="../figures/Sandra.jpg" alt="Sandra" style="float:left; width:100px; height:100px; padding: 10px;"><span style="vertical-align:bottom"> Research Group Leader for Digital Global Health Heidelberg Institute of Global Health, Germany. </span>  Visit <a href="https://www.klinikum.uni-heidelberg.de/index.php?id=143349&no_cache=1&type=98"><span style="text-align:center">Dr. Barteit's website </span></a> for more information about her work. </p> <br> 
 
-
+<h5 
+    </h5>
 
 <h4 style="color:DodgerBlue;"> Dr. Bernd Franke, Facilitator </h4> 
 Email: <a href="mailto:barteit@uni-heidelberg.de">barteit@uni-heidelberg.de</a> <br>
