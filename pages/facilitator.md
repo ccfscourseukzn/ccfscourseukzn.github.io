@@ -41,34 +41,17 @@ Email: <a href="mailto:barteit@uni-heidelberg.de">barteit@uni-heidelberg.de</a> 
 <p align="justify"> <img src="../figures/IMadzorera Potrait.jpg" alt="IMadzorera Potrait" style="float:left; width:50px; height:50px;padding: 10px;"><span style="vertical-align:bottom"> Assistant Professor in Public Health Nutrition, University of California, Berkeley. </span> <br> Visit <a href="https://publichealth.berkeley.edu/people/isabel-madzorera/"><span style="text-align:center">Dr. Madzorera's website</span></a> for more information about her work. </p> <br>
 
 <h4 style="color:DodgerBlue;"> Dr. Gabriel Kallah-Dagadu, Facilitator </h4> 
-
-<p align="justify"> <img src="../figures/Gabriel.png" alt="Gabriel" style="float:left; width:50px; height:50px;padding: 10px;"><span style="vertical-align:bottom"> WASHU Takwimu Postdoctoral Fellow,<br> University of KwaZulu-Natal. </span> <br>
-
+<p align="justify"> <img src="../figures/Gabriel.png" alt="Gabriel" style="float:left; width:50px; height:50px;padding: 10px;"><span style="vertical-align:bottom"> WASHU Takwimu Postdoctoral Fellow,<br> University of KwaZulu-Natal. </span> </p> <br>
 
 
-<h4 style="color:DodgerBlue;"> Dr. Gabriel Kallah-Dagadu, Teaching Assistant </h4>
-WASHU Takwimu Postdoctoral Fellow, UKZN, South Africa. <br>
-Email: <a href="mailto:kallahdagadug@ukzn.ac.za">kallahdagadug@ukzn.ac.za</a> <br>
-<p align="justify"> <img src="../figures/Gabriel.png" alt="Gabriel" style="float:left; width:100px; height:100px; padding: 10px;"><span style="vertical-align:bottom"> Gabriel Kallah-Dagadu holds a Ph.D. in Statistics from the University of Cape Coast, Ghana. Gabriel is Lecturer at the University of Ghana and has eight years of teaching and supervising experience in Statistics, Probability, and Data Science. He is currently a postdoctoral fellow in the DSI-Africa Training program on Health Data Science project hosted by the University of KwaZulu-Natal, South Africa, Harvard T. H. Chan School of Public Health, USA, and Heidelberg Institute of Global Health, Germany. His research interest are centered on applied probability, computational statistics, and machine learning with real-life applications to health, climate change, and finance. He has published scientific and peer-reviewed articles in local and international journals. </span> Visit <a href=""><span style="text-align:center">Dr. Kallah-Dagadu's website</span></a> for more information about his work. </p> <br>
-
-
-<h4 style="color:DodgerBlue;"> Dr. Mohanad Mohammed, Teaching Assistant </h4>
-WASHU Takwimu Postdoctoral Fellow, UKZN, South Africa. <br>
-Email: <a href="mailto:MohammedmM1@ukzn.ac.za">MohammedmM1@ukzn.ac.za</a> <br>
-<p align="justify"> <img src="../figures/Mohanad_Mohammed.jpg" alt="Mohanad" style="float:left; width:100px; height:100px; padding: 10px;"><span style="vertical-align:bottom"> Mohanad Mohammed earned his PhD from the School of Mathematics, Statistics, and Computer Science (SMSCS), specializing in Statistics at the University of KwaZulu-Natal (UKZN) in 2022. During his MSc and PhD studies, he worked as a tutor and an Adhoc lecturer in SMSCS at the same university, which continued from 2019 to 2022. He is currently a post-doc fellow working on a health data science project hosted by UKZN in collaboration with Harvard T. H. Chan, School of Public Health, USA, and Heidelberg University and Germany. His research has focused on developing and applying statistical methods in genomics, genetics, public health, and the environment. He is interested in contributing to a deeper understanding of cancer disease modeling using gene expression data to facilitate decision-making concerning diagnosis, treatment, and care. In addition, Mohammed has authored and co-authored many articles, ten of which have been published in reputable journals and conference papers. He has attended and presented at various international and local workshops and conferences and is an active member of the biostatistics team under the MASAMU program. </span> Visit <a href=""><span style="text-align:center">Dr. Mohammed's website</span></a> for more information about his work. </p> <br>
-
-
-<h4 style="color:DodgerBlue;"> Dr. Kennedy Chengeta, Teaching Assistant </h4>
-Postdoctoral Researcher in Climate Change AI & Renewable Energy, School of Mathematics, Statistics and Computer Science, UKZN, South Africa. <br>
-Email: <a href="mailto:"></a> <br>
-<p align="justify"> <img src="../figures/Kennedy.png" alt="Kennedy" style="float:left; width:100px; height:100px; padding: 10px;"><span style="vertical-align:bottom"> Kennedy is a PostDoc Researcher in Climate Change AI focusing on Renewable Energy. He holds Phd in Computer Science/Artificial Intelligence and Computer Vision, three masters degrees in Advanced Software Engineering (Leicester, UK), ICT Management(University of Pretoria) and in Finance and Investments (NUST). He is also currently finalising dual Masters in engineering in Telecommunications, Autonomous and Self Driving Cars with University of Cape Town. He has years of FinTech, Automation (IBM, Camunda, Webmethods, Lotus Notes), Artificial Intelligence and Cloud Experience with banks, insurance and oil companies in South Africa and Zimbabwe. </span> Visit <a href=""><span style="text-align:center">Dr. Chengeta's website</span></a> for more information about his work. </p> <br>
+<h4 style="color:DodgerBlue;"> Dr. Isabel Mank, Facilitator </h4> 
+<p align="justify"> <img src="../figures/Mank.png" alt="Mank" style="float:left; width:50px; height:50px;padding: 10px;"><span style="vertical-align:bottom"> Evaluator, German Institute for Development Evaluation,
+  Germany </span> <br> Visit <a href="https://www.deval.org/en/about-us/who-we-are/team/isabel-mank"><span style="text-align:center">Dr. Madzorera's website</span></a> for more information about her work. </p> <br>
 
 
 
-<h4 style="color:DodgerBlue;"> Dr. Ashenafi Yirga, Teaching Assistant </h4>
-WASHU Takwimu Postdoctoral Fellow, UKZN, South Africa. <br>
-Email: <a href="mailto:yirgaa@ukzn.ac.za">yirgaa@ukzn.ac.za</a> <br>
-<p align="justify"> <img src="../figures/Ashu.png" alt="Ashu" style="float:left; width:100px; height:100px; padding: 10px;"><span style="vertical-align:bottom"> scholar as part of the DS-I Africa Trainee program. He obtained his BSc degree in Statistics from Addis Ababa University, Ethiopia. He completed his BSc Honors degree, Master of Science, and Ph.D. in Statistics at the University of KwaZulu-Natal, South Africa. Ashenafi authored several articles, seven of which have been published in ISI-indexed and/or Q1-rated journals. Throughout his postgraduate study years, he consulted and worked as an assistant lecturer for undergraduate and postgraduate students. He also presented his work locally and internationally at conferences and attended several workshops and courses. Ashenafi is interested in being involved in biomedical, nutrition, HIV/AIDS and/or infectious diseases, socio-economical, demographic, epidemiological studies, and health data science in general. He is particularly interested in contributing to the growing body of research on public health that will improve the quality of life of affected individuals and the population at large. </span> Visit <a href=""><span style="text-align:center">Dr. Yirga's website</span></a> for more information about his work. </p> <br>
+
+
 
 
 ### Course Facilitators
