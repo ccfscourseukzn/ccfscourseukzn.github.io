@@ -3,7 +3,9 @@ layout: frontpage
 title: Climate Change, Food System and Remote Sensing
 ---
 
-## DSI-Africa Training Programme: Climate Change, Food System and Remote Sensing Short Course 
+## Data Science Initiative for Africa (DSI-A) Training Programme
+
+### A Short Course in Climate Change, Food systems and Remote Sensing with a focus on Health Data Science 
 
 
 #### Dates: Monday 10th July- Friday 21st July 2023
