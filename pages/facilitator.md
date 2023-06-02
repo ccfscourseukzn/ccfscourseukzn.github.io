@@ -24,17 +24,13 @@ Professor and SARChl Chair on Landuse Planning and Management in the School of A
 Email: <a href="mailto:mutangao@ukzn.ac.za">mutangao@ukzn.ac.za</a> <br>
 <p align="justify"> <img src="../figures/Onisimo.jpeg" alt="Onisimo" style="float:left; width:120px; height:120px; padding: 10px;"><span style="vertical-align:bottom"> Onisimo Mutanga is full Professor of Remote Sensing and SARChI Chair in Landuse Planning and Management in the School of Agriculture, Earth and Environmental Science at the University of KwaZulu- Natal. His expertise lies in resource modelling, and pattern and condition analysis in the face of global and land use change. These include vegetation quality and quantity assessment in both space and time using remote sensing for grazing resource management and climate change mitigation. He integrates ecology, biodiversity conservation and remote sensing to model, among others, the impact of forest fragmentation, pests and diseases and invasive species on ecosystems as an integral component of land use planning and management. </span> Visit <a href=" https://saees.ukzn.ac.za/onisimo-mutanga/"> <span style="text-align:center">Prof. Mutanga's website</span></a> for more information about his work. </p> <br>
 
-
 <h4 style="color:DodgerBlue;"> Dr. Sandra Barteit, Facilitator, Training Director HIGH </h4> 
 Email: <a href="mailto:barteit@uni-heidelberg.de">barteit@uni-heidelberg.de</a> <br>
-<p align="justify"> <img src="../figures/Sandra.jpg" alt="Sandra" style="float:left; width:100px; height:100px; padding: 10px;"><span style="vertical-align:bottom"> Research Group Leader for Digital Global Health Heidelberg Institute of Global Health, Germany. </span>  Visit <a href="https://www.klinikum.uni-heidelberg.de/index.php?id=143349&no_cache=1&type=98"><span style="text-align:center">Dr. Barteit's website </span></a> for more information about her work. </p> <br> 
-
-<h5 
-    </h5>
+<p align="justify"> <img src="../figures/Sandra.jpg" alt="Sandra" style="float:left; width:50px; height:50px; padding: 10px;"><span style="vertical-align:bottom"> Research Group Leader for Digital Global Health Heidelberg Institute of Global Health, Germany. </span>  Visit <a href="https://www.klinikum.uni-heidelberg.de/index.php?id=143349&no_cache=1&type=98"><span style="text-align:center">Dr. Barteit's website </span></a> for more information about her work. </p> <br> 
 
 <h4 style="color:DodgerBlue;"> Dr. Bernd Franke, Facilitator </h4> 
 Email: <a href="mailto:barteit@uni-heidelberg.de">barteit@uni-heidelberg.de</a> <br>
-<p align="justify"> <img src="../figures/Franke.png" alt="Franke" style="float:left; width:100px; height:100px;padding: 10px;"><span style="vertical-align:bottom"> Scientific Director Institute for Energy and Environmental Research (IFEU). </span> <br> Visit <a href="https://www.ifeu.de/en/staff/detail/bernd-franke"><span style="text-align:center">Dr. Franke's website</span></a> for more information about her work. </p> <br>
+<p align="justify"> <img src="../figures/Franke.png" alt="Franke" style="float:left; width:50px; height:50px;padding: 10px;"><span style="vertical-align:bottom"> Scientific Director Institute for Energy and Environmental Research (IFEU). </span> <br> Visit <a href="https://www.ifeu.de/en/staff/detail/bernd-franke"><span style="text-align:center">Dr. Franke's website</span></a> for more information about her work. </p> <br>
 
 
 
