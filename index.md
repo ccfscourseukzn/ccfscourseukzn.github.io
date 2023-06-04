@@ -208,20 +208,20 @@ title: Climate Change, Food System and Remote Sensing
     <td class="tg-0lax"> Methodological challenges-Identifying the impacts of climate change on dietary habits and nutritional status </td>
     <td class="tg-0lax">Drive solutions for climate change adaptation-Examples of intervention project. <br> Practical example: MEGA in Dodoma </td>
     <td class="tg-0lax"> Introduction to QGIS <br>
-      *Installation of QGIS <br>
-      *	Introduction to QGIS interface <br>
-      *	Adding data to QGIS<br>
-      *	Working with layers <br>
-      * Understanding coordinate reference systems QGIS Plugins
+      Installation of QGIS <br>
+      Introduction to QGIS interface <br>
+      Adding data to QGIS<br>
+      Working with layers <br>
+      Understanding coordinate reference systems QGIS Plugins
 </td>
     <td class="tg-0lax"> Creating Map outputs<br>
-     * Adding Layers <br>
-     * Styling Layers <br>
-     * Labelling <br>
-     * Creating Layouts <br>
-     * Map Elements <br>
-     * Exporting Maps <br>
-     * Best map layout Practices </td>
+     Adding Layers <br>
+     Styling Layers <br>
+     Labelling <br>
+     Creating Layouts <br>
+     Map Elements <br>
+     Exporting Maps <br>
+     Best map layout Practices </td>
     <td class="tg-0lax"> Supervised Classification Modelling Cont'd. </td>
   </tr>
   <tr>
@@ -238,11 +238,11 @@ title: Climate Change, Food System and Remote Sensing
     <td class="tg-0lax"> Practical Example: Linear optimization modelling for sustainable diets among Ghanaian migrants</td>
     <td class="tg-0lax"> Spatial data entry and preparation <br> Georeferencing aerial imagery </td>
     <td class="tg-0lax"> Handling remotely sensed data in QGIS <br>
-    * Data acquisition <br>
-    * Data pre-processing <br>
-    * Importing remotely sensed data into QGIS <br>
-    * Image enhancement <br>
-    * Spatial analysis </td>
+    Data acquisition <br>
+    Data pre-processing <br>
+    Importing remotely sensed data into QGIS <br>
+    Image enhancement <br>
+    Spatial analysis </td>
     <td class="tg-0lax"> Introduction and Calculation of Vegetation Indices </td>
   </tr>
   <tr>
