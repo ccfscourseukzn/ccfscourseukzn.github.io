@@ -8,13 +8,13 @@ title: Climate Change, Food System and Remote Sensing
 
 <h2 style="background-color:white; color:black; text-align: center;">  A Short Course in Climate Change, Food systems and Remote Sensing with a focus on Health Data Science </h2> <br>
 
-<h4 style="background-color:Tomato; color:white; text-align: center;"> Note: Lectures will start from 9:00 AM - 4:30 PM (South Africa Time) for  each Day. </h4> <br>
+<h4 style="background-color:Tomato; color:white; text-align: center;"> Note: Lectures will start from 9:00 - 17:00 (South Africa Time) for  each Day. </h4> 
 
 <h2 style="background-color:white; color:blue; text-align: center;"> Dates: Monday 10th July- Friday 21st July 2023</h2> <br>
 
-##### Venue: [Garden Court, Umhlanga,](https://www.southernsun.com/garden-court-umhlanga) Corner of Aurora Drive and Centenary Boulevard, Umhlanga Rocks, Kwazulu-Natal, South Africa.
+#### Venue: [Garden Court, Umhlanga,](https://www.southernsun.com/garden-court-umhlanga) Corner of Aurora Drive and Centenary Boulevard, Umhlanga Rocks, Kwazulu-Natal, South Africa.
 
-##### Please use the following link: [ZOOM LINK](https://harvard.zoom.us/meeting/register/tJUkce6tqjsvHNydfIXyERdbS2CJvk5ppazy).
+#### Please use the following link: [ZOOM LINK](https://harvard.zoom.us/meeting/register/tJUkce6tqjsvHNydfIXyERdbS2CJvk5ppazy).
 
 <html>
 <head>
@@ -207,21 +207,21 @@ title: Climate Change, Food System and Remote Sensing
     <td class="tg-amwm">09:00-10:30</td>
     <td class="tg-0lax"> Methodological challenges-Identifying the impacts of climate change on dietary habits and nutritional status </td>
     <td class="tg-0lax">Drive solutions for climate change adaptation-Examples of intervention project. <br> Practical example: MEGA in Dodoma </td>
-    <td class="tg-0lax"> Introduction to QGIS <br>
-      Installation of QGIS <br>
-      Introduction to QGIS interface <br>
-      Adding data to QGIS<br>
-      Working with layers <br>
-      Understanding coordinate reference systems QGIS Plugins
+    <td class="tg-0lax"> Introduction to QGIS: <br>
+      -Installation of QGIS <br>
+      -Introduction to QGIS interface <br>
+      -Adding data to QGIS<br>
+      -Working with layers <br>
+      -Understanding coordinate reference systems QGIS Plugins
 </td>
-    <td class="tg-0lax"> Creating Map outputs<br>
-     Adding Layers <br>
-     Styling Layers <br>
-     Labelling <br>
-     Creating Layouts <br>
-     Map Elements <br>
-     Exporting Maps <br>
-     Best map layout Practices </td>
+    <td class="tg-0lax"> -Creating Map outputs<br>
+     -Adding Layers <br>
+     -Styling Layers <br>
+     -Labelling <br>
+     -Creating Layouts <br>
+     -Map Elements <br>
+     -Exporting Maps <br>
+     -Best map layout Practices </td>
     <td class="tg-0lax"> Supervised Classification Modelling Cont'd. </td>
   </tr>
   <tr>
@@ -237,12 +237,12 @@ title: Climate Change, Food System and Remote Sensing
     <td class="tg-0lax"> Methodological Solutions - Dimension reduction techniques to identify climate change impacts </td>
     <td class="tg-0lax"> Practical Example: Linear optimization modelling for sustainable diets among Ghanaian migrants</td>
     <td class="tg-0lax"> Spatial data entry and preparation <br> Georeferencing aerial imagery </td>
-    <td class="tg-0lax"> Handling remotely sensed data in QGIS <br>
-    Data acquisition <br>
-    Data pre-processing <br>
-    Importing remotely sensed data into QGIS <br>
-    Image enhancement <br>
-    Spatial analysis </td>
+    <td class="tg-0lax"> Handling remotely sensed data in QGIS: <br>
+    -Data acquisition <br>
+    -Data pre-processing <br>
+    -Importing remotely sensed data into QGIS <br>
+    -Image enhancement <br>
+    -Spatial analysis </td>
     <td class="tg-0lax"> Introduction and Calculation of Vegetation Indices </td>
   </tr>
   <tr>
