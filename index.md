@@ -10,7 +10,7 @@ title: Climate Change, Food System and Remote Sensing
 
 <h4 style="background-color:Tomato; color:white; text-align: center;"> Note: Lectures will start from 9:00 AM - 4:30 PM (South Africa Time) for  each Day. </h4> <br>
 
-<h3 style="background-color:white; color:blue; text-align: center;"> Dates: Monday 10th July- Friday 21st July 2023</h3> <br>
+<h2 style="background-color:white; color:blue; text-align: center;"> Dates: Monday 10th July- Friday 21st July 2023</h2> <br>
 
 ##### Venue: [Garden Court, Umhlanga,](https://www.southernsun.com/garden-court-umhlanga) Corner of Aurora Drive and Centenary Boulevard, Umhlanga Rocks, Kwazulu-Natal, South Africa.
 
