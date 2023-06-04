@@ -16,22 +16,13 @@ title: Climate Change, Food System and Remote Sensing
 
 ##### Please use the following link: [ZOOM LINK](https://harvard.zoom.us/meeting/register/tJUkce6tqjsvHNydfIXyERdbS2CJvk5ppazy).
 
+<body>
+<h3>Lectures Schedules </h3>
 
-#### Lectures Schedule 
-
-##### Week 1:
-
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-amwm{font-weight:bold;text-align:center;vertical-align:top}
-.tg .tg-0lax{text-align:left;vertical-align:top}
-</style>
-<table class="tg">
-<thead>
+<table id="inpersonw1">
+  <tr>
+    <th colspan="7" style="background-color: LightSlateGrey;"><b><b><b><b>Week 1</b></b></b></b></th>
+  </tr>
   <tr>
     <th class="tg-amwm">Time</th>
     <th class="tg-amwm">Monday 10/07</th>
@@ -108,8 +99,9 @@ title: Climate Change, Food System and Remote Sensing
     <td class="tg-0lax"> Self-Study: Massive Open Online Course on Research Methods for the study of Climate Change and Health </td>
     
   </tr>
-</tbody>
-</table>
+  </table>
+  </body>
+  </html>
 
 
 
