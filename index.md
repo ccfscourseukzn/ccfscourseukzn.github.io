@@ -50,7 +50,7 @@ title: Climate Change, Food System and Remote Sensing
 
 <table id="inpersonw1">
   <tr>
-    <th colspan="7" style="background-color: LightSlateGrey;"><b><b><b><b>Week 1</b></b></b></b></th>
+    <th colspan="7" style="background-color: LightSlateGrey;"><b><b><b><b>WEEK 1</b></b></b></b></th>
   </tr>
   <tr>
     <th class="tg-amwm">Time</th>
@@ -161,20 +161,40 @@ title: Climate Change, Food System and Remote Sensing
 </head>
 <body>
 
+<html>
+<head>
+<style>
+#inpersonw2 {
+  font-family: Arial, Helvetica, sans-serif;
+  border-collapse: collapse;
+  width: 100%;
+}
 
-#### Week 2:
+#inpersonw2 td, #inpersonw2 th {
+  border: 1px solid #ddd;
+  padding: 8px;
+}
 
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-amwm{font-weight:bold;text-align:center;vertical-align:top}
-.tg .tg-0lax{text-align:left;vertical-align:top}
+#inpersonw2 tr:nth-child(even){background-color: #f2f2f2;}
+
+#inpersonw2 tr:hover {background-color: #ddd;}
+
+#inpersonw2 th {
+  padding-top: 12px;
+  padding-bottom: 12px;
+  text-align: center;
+  background-color: #04AA6D;
+  color: white;
+}
 </style>
-<table class="tg">
-<thead>
+</head>
+<body>
+
+
+<table id="inpersonw2">
+  <tr>
+    <th colspan="6" style="background-color: LightSlateGrey;"><b><b><b><b>Week 2</b></b></b></b></th>
+  </tr>
   <tr>
     <th class="tg-amwm">Time</th>
     <th class="tg-amwm">Monday 17/07</th>
@@ -242,8 +262,11 @@ title: Climate Change, Food System and Remote Sensing
     <td class="tg-0lax"> Supervised Classification </td>
     <td class="tg-0lax">Closing Ceremony</td>
   </tr>
-</tbody>
 </table>
+
+</body>
+</html>
+
 
 
 
