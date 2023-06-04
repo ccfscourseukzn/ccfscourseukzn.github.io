@@ -63,7 +63,7 @@ title: Climate Change, Food System and Remote Sensing
   </tr>
 
   <tr>
-    <td class="tg-amwm">9:00-10:30 am</td>
+    <td class="tg-amwm">09:00-10:30</td>
     <td class="tg-0lax"> 1.Welcome and overview of course <br> 
        2.Introduction to concepts and indicators: Climate change and weather </td>
     <td class="tg-0lax"> Definition  and History of Remote Sensing </td>
@@ -73,7 +73,7 @@ title: Climate Change, Food System and Remote Sensing
     
   </tr>
   <tr>
-    <td class="tg-amwm">10:30-10:45 am</td>
+    <td class="tg-amwm">10:30-11:00</td>
     <td class="tg-0lax">Break</td>
     <td class="tg-0lax">Break</td>
     <td class="tg-0lax">Break</td>
@@ -82,7 +82,7 @@ title: Climate Change, Food System and Remote Sensing
     
   </tr>
   <tr>
-    <td class="tg-amwm">10:45-12:00 pm</td>
+    <td class="tg-amwm">11:00-12:30</td>
     <td class="tg-0lax"> Practical: Using public databases for climate change and weather </td>
     <td class="tg-0lax"> Energy interactions with  objectives</td>
     <td class="tg-0lax"> Unsupervised Image Classification </td>
@@ -91,7 +91,7 @@ title: Climate Change, Food System and Remote Sensing
     
   </tr>
   <tr>
-    <td class="tg-amwm">12:00-1:00 pm</td>
+    <td class="tg-amwm">12:30-13:30</td>
     <td class="tg-0lax">Lunch</td>
     <td class="tg-0lax">Lunch</td>
     <td class="tg-0lax">Lunch</td>
@@ -101,7 +101,7 @@ title: Climate Change, Food System and Remote Sensing
   </tr>
   
   <tr>
-    <td class="tg-amwm">1:00-2:15 pm</td>
+    <td class="tg-amwm">13:30-15:00</td>
     <td class="tg-0lax">Introduction to concepts and indicators: Environmental footprints of foods </td>
     <td class="tg-0lax"> Sensors and Platforms </td>
     <td class="tg-0lax"> Supervised Image Classification </td>
@@ -110,7 +110,7 @@ title: Climate Change, Food System and Remote Sensing
     
   </tr>
   <tr>
-    <td class="tg-amwm">2:15-2:30 pm</td>
+    <td class="tg-amwm">15:00-15:30</td>
     <td class="tg-0lax">Break</td>
     <td class="tg-0lax">Break</td>
     <td class="tg-0lax">Break</td>
@@ -119,7 +119,7 @@ title: Climate Change, Food System and Remote Sensing
     
   </tr>
   <tr>
-    <td class="tg-amwm">2:30-3:45 pm</td>
+    <td class="tg-amwm">15:30-17:00</td>
     <td class="tg-0lax">Practical: Using public databases for life-cycle assessment of foods </td>
     <td class="tg-0lax"> Resolutions in remote sensing </td>
     <td class="tg-0lax">Supervised Image Classification (Cont'd)</td>
