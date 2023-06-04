@@ -204,15 +204,28 @@ title: Climate Change, Food System and Remote Sensing
   </tr>
 
   <tr>
-    <td class="tg-amwm">9:00-10:30 am</td>
+    <td class="tg-amwm">09:00-10:30</td>
     <td class="tg-0lax"> Methodological challenges-Identifying the impacts of climate change on dietary habits and nutritional status </td>
     <td class="tg-0lax">Drive solutions for climate change adaptation-Examples of intervention project. <br> Practical example: MEGA in Dodoma </td>
-    <td class="tg-0lax"> Presentation of own research ideas and methodological challenges; selecting 4 project ideas to be worked on</td>
-    <td class="tg-0lax"> Creating Map Outputs</td>
-    <td class="tg-0lax"> Supervised Classification  Cont'd. </td>
+    <td class="tg-0lax"> Introduction to QGIS <br>
+      *Installation of QGIS <br>
+      *	Introduction to QGIS interface <br>
+      *	Adding data to QGIS<br>
+      *	Working with layers <br>
+      * Understanding coordinate reference systems QGIS Plugins
+</td>
+    <td class="tg-0lax"> Creating Map outputs<br>
+     * Adding Layers <br>
+     * Styling Layers <br>
+     * Labelling <br>
+     * Creating Layouts <br>
+     * Map Elements <br>
+     * Exporting Maps <br>
+     * Best map layout Practices </td>
+    <td class="tg-0lax"> Supervised Classification Modelling Cont'd. </td>
   </tr>
   <tr>
-    <td class="tg-amwm">10:30-10:45 am</td>
+    <td class="tg-amwm">10:30-11:00</td>
     <td class="tg-0lax">Break</td>
     <td class="tg-0lax">Break</td>
     <td class="tg-0lax">Break</td>
@@ -220,15 +233,20 @@ title: Climate Change, Food System and Remote Sensing
     <td class="tg-0lax">Break</td>
   </tr>
   <tr>
-    <td class="tg-amwm">10:45-12:00 pm</td>
+    <td class="tg-amwm">11:00-12:30</td>
     <td class="tg-0lax"> Methodological Solutions - Dimension reduction techniques to identify climate change impacts </td>
     <td class="tg-0lax"> Practical Example: Linear optimization modelling for sustainable diets among Ghanaian migrants</td>
-    <td class="tg-0lax">Tutored group work to derive methodological solutions for 4 project ideas</td>
-    <td class="tg-0lax"> Handling remotely sensed data in QGIS</td>
+    <td class="tg-0lax"> Spatial data entry and preparation <br> Georeferencing aerial imagery </td>
+    <td class="tg-0lax"> Handling remotely sensed data in QGIS <br>
+    * Data acquisition <br>
+    * Data pre-processing <br>
+    * Importing remotely sensed data into QGIS <br>
+    * Image enhancement <br>
+    * Spatial analysis </td>
     <td class="tg-0lax"> Introduction and Calculation of Vegetation Indices </td>
   </tr>
   <tr>
-    <td class="tg-amwm">12:00-1:00 pm</td>
+    <td class="tg-amwm">12:30-13:30</td>
     <td class="tg-0lax">Lunch</td>
     <td class="tg-0lax">Lunch</td>
     <td class="tg-0lax">Lunch</td>
@@ -236,16 +254,16 @@ title: Climate Change, Food System and Remote Sensing
     <td class="tg-0lax">Lunch</td>
   </tr>
   <tr> 
-    <td class="tg-amwm">1:00-2:15 pm</td>
+    <td class="tg-amwm">13:30-15:00</td>
     <td class="tg-0lax"> Methodological Solutions- Machine learning approaches to identify climate change impacts </td>
     <td class="tg-0lax"> Derive solutions for climate change mitigation - Optimization modelling and substitution approaches for sustainable diets. <br> 
     Sustainable dietary weight loss approach </td>
-    <td class="tg-0lax">Introduction to QGIS</td>
-    <td class="tg-0lax">Unspervised Classification </td>
+    <td class="tg-0lax"> Networking and transition to Symposium event </td>
+    <td class="tg-0lax">Unspervised Classification Modelling </td>
     <td class="tg-0lax">Synthesis (recap) and Course Evaluation</td>
   </tr>
   <tr>
-    <td class="tg-amwm">2:15-2:30 pm</td>
+    <td class="tg-amwm">15:00-15:30</td>
     <td class="tg-0lax">Break</td>
     <td class="tg-0lax">Break</td>
     <td class="tg-0lax">Break</td>
@@ -253,11 +271,20 @@ title: Climate Change, Food System and Remote Sensing
     <td class="tg-0lax">Break</td>
   </tr>
   <tr> 
-    <td class="tg-amwm">2:30-3:45 pm</td>
+    <td class="tg-amwm">15:30-16:15</td>
     <td class="tg-0lax">Methodological Solutions- Down-scaled climate change impacts models</td>
-    <td class="tg-0lax"> TBD Session</td>
-    <td class="tg-0lax"> Spatial data entry and preparation </td>
-    <td class="tg-0lax"> Supervised Classification </td>
+    <td class="tg-0lax"> Presentation of own research ideas and methodological challenges; selecting 4 project ideas to be worked on </td>
+    <td class="tg-0lax"> DSI Annual Symposium </td>
+    <td class="tg-0lax"> Supervised Classification Modelling</td>
+    <td class="tg-0lax">Closing Ceremony</td>
+  </tr>
+  
+  <tr> 
+    <td class="tg-amwm">16:15-17:00</td>
+    <td class="tg-0lax"> Methodological solutions – Down-scaled climate change impact models </td>
+    <td class="tg-0lax"> Tutored group work to derive methodological solutions for the 4 project ideas</td>
+    <td class="tg-0lax"> DSI Annual Symposium </td>
+    <td class="tg-0lax"> Supervised Classification Modelling </td>
     <td class="tg-0lax">Closing Ceremony</td>
   </tr>
 </table>
