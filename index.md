@@ -61,8 +61,7 @@ title: Climate Change, Food System and Remote Sensing
     <th class="tg-amwm">Friday 14/07</th>
    
   </tr>
-</thead>
-<tbody>
+
   <tr>
     <td class="tg-amwm">9:00-10:30 am</td>
     <td class="tg-0lax"> 1.Welcome and overview of course <br> 
@@ -193,7 +192,7 @@ title: Climate Change, Food System and Remote Sensing
 
 <table id="inpersonw2">
   <tr>
-    <th colspan="6" style="background-color: LightSlateGrey;"><b><b><b><b>Week 2</b></b></b></b></th>
+    <th colspan="6" style="background-color: LightSlateGrey;"><b><b><b><b>WEEK 2</b></b></b></b></th>
   </tr>
   <tr>
     <th class="tg-amwm">Time</th>
@@ -203,8 +202,7 @@ title: Climate Change, Food System and Remote Sensing
     <th class="tg-amwm">Thursday 20/07</th>
     <th class="tg-amwm">Friday 21/07</th>
   </tr>
-</thead>
-<tbody>
+
   <tr>
     <td class="tg-amwm">9:00-10:30 am</td>
     <td class="tg-0lax"> Methodological challenges-Identifying the impacts of climate change on dietary habits and nutritional status </td>
