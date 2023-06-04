@@ -16,7 +16,36 @@ title: Climate Change, Food System and Remote Sensing
 
 ##### Please use the following link: [ZOOM LINK](https://harvard.zoom.us/meeting/register/tJUkce6tqjsvHNydfIXyERdbS2CJvk5ppazy).
 
+<html>
+<head>
+<style>
+#inpersonw1 {
+  font-family: Arial, Helvetica, sans-serif;
+  border-collapse: collapse;
+  width: 100%;
+}
+
+#inpersonw1 td, #inpersonw1 th {
+  border: 1px solid #ddd;
+  padding: 8px;
+}
+
+#inpersonw1 tr:nth-child(even){background-color: #f2f2f2;}
+
+#inpersonw1 tr:hover {background-color: #ddd;}
+
+#inpersonw1 th {
+  padding-top: 12px;
+  padding-bottom: 12px;
+  text-align: center;
+  background-color: #04AA6D;
+  color: white;
+}
+</style>
+</head>
 <body>
+
+
 <h3>Lectures Schedules </h3>
 
 <table id="inpersonw1">
@@ -100,9 +129,37 @@ title: Climate Change, Food System and Remote Sensing
     
   </tr>
   </table>
-  </body>
-  </html>
+ </body>
+ </html>
 
+<html>
+<head>
+<style>
+#inpersonw2 {
+  font-family: Arial, Helvetica, sans-serif;
+  border-collapse: collapse;
+  width: 100%;
+}
+
+#inpersonw2 td, #inpersonw2 th {
+  border: 1px solid #ddd;
+  padding: 8px;
+}
+
+#inpersonw2 tr:nth-child(even){background-color: #f2f2f2;}
+
+#inpersonw2 tr:hover {background-color: #ddd;}
+
+#inpersonw2 th {
+  padding-top: 12px;
+  padding-bottom: 12px;
+  text-align: center;
+  background-color: #04AA6D;
+  color: white;
+}
+</style>
+</head>
+<body>
 
 
 #### Week 2:
