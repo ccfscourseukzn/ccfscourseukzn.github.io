@@ -153,7 +153,7 @@ title: Climate Change, Food System and Remote Sensing
   padding-top: 12px;
   padding-bottom: 12px;
   text-align: center;
-  background-color: #04AA6D;
+  background-color: #ACDF87;
   color: white;
 }
 </style>
