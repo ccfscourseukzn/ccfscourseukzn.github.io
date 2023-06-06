@@ -71,7 +71,7 @@ Email: <a href="mailto:barteit@uni-heidelberg.de">barteit@uni-heidelberg.de</a> 
 <h4 style="color:DodgerBlue;"> Dr. Isabel Mank, Facilitator </h4> 
 <p align="justify"> <img src="../figures/Mank.png" alt="Mank" style="float:left; width:120px; height:120px;padding: 10px;"><span style="vertical-align:bottom"> Evaluator, German Institute for Development Evaluation,
   Germany </span> <br> Visit <a href="https://www.deval.org/en/about-us/who-we-are/team/isabel-mank"><span style="text-align:center">Dr. Mank's website</span></a> for more information about her work. </p> <br>
-<br>
+<br> 
 <br>
 <br>
 <br>
@@ -82,6 +82,14 @@ Email: <a href="mailto:barteit@uni-heidelberg.de">barteit@uni-heidelberg.de</a> 
 <br>
 <br>
 <br>
+<h4 style="color:DodgerBlue;"> Dr. Mthembeni Mngadi, Facilitator </h4> 
+<p align="justify"> <img src="../figures/Mngadi.jpg" alt="Mngadi" style="float:left; width:120px; height:120px;padding: 10px;"><span style="vertical-align:bottom"> Postdoctoral Research Fellow at the Institute of Commercial Forest Research, <br> University of KwaZulu-Natal. </span> </p> <br>
+<br>
+<br>
+<br>
+<br>
+<h4 style="color:DodgerBlue;"> Dr. Michael Opata, Facilitator </h4> 
+<p align="justify"> <img src="../figures/Opata.jpg" alt="Opata" style="float:left; width:120px; height:120px;padding: 10px;"><span style="vertical-align:bottom"> Postdoctoral Research Fellow at the Theoretical and Computational Chemistry Group, <br> Heidelberg University, Germany. </span> </p> <br>
 
 
 
