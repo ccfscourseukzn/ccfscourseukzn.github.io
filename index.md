@@ -50,7 +50,7 @@ title: Climate Change, Food System and Remote Sensing
 
 <table id="inpersonw1">
   <tr>
-    <th colspan="7" style="background-color: SlateGrey;"><b><b><b><b>WEEK 1</b></b></b></b></th>
+    <th colspan="7" style="background-color: SlateGray;"><b><b><b><b>WEEK 1</b></b></b></b></th>
   </tr>
   <tr>
     <th class="tg-amwm">Time</th>
@@ -192,7 +192,7 @@ title: Climate Change, Food System and Remote Sensing
 
 <table id="inpersonw2">
   <tr>
-    <th colspan="6" style="background-color:SlateGrey;"><b><b><b><b>WEEK 2</b></b></b></b></th>
+    <th colspan="6" style="background-color:SlateGray;"><b><b><b><b>WEEK 2</b></b></b></b></th>
   </tr>
   <tr>
     <th class="tg-amwm">Time</th>
