@@ -192,7 +192,7 @@ title: Climate Change, Food System and Remote Sensing
 
 <table id="inpersonw2">
   <tr>
-    <th colspan="6" style="background-color: #708090;"><b><b><b><b>WEEK 2</b></b></b></b></th>
+    <th colspan="6" style="background-color: LightSlateGrey;"><b><b><b><b>WEEK 2</b></b></b></b></th>
   </tr>
   <tr>
     <th class="tg-amwm">Time</th>
