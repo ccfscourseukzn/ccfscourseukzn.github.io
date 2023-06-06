@@ -8,7 +8,7 @@ title: Climate Change, Food System and Remote Sensing
 
 <h2 style="background-color:white; color:black; text-align: center;">  A Short Course in Climate Change, Food Systems and Remote Sensing with a Focus on Health Data Science </h2> <br>
 
-<h3 style="background-color:Tomato; color:white; text-align: center;"> Note: Lectures will start from 9:00 - 17:00 (South Africa Time) for  each Day. </h3> 
+<h4 style="background-color:Tomato; color:white; text-align: center;"> Note: Lectures will start from 9:00 - 17:00 (South Africa Time) for  each Day. </h4> 
 
 <h2 style="background-color:white; color:blue; text-align: center;"> Dates: Monday 10th July- Friday 21st July 2023</h2> <br>
 
@@ -38,7 +38,7 @@ title: Climate Change, Food System and Remote Sensing
   padding-top: 12px;
   padding-bottom: 12px;
   text-align: center;
-  background-color: #04AA6D;
+  background-color: #ACDF87;
   color: white;
 }
 </style>
