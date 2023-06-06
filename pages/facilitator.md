@@ -90,6 +90,15 @@ Email: <a href="mailto:barteit@uni-heidelberg.de">barteit@uni-heidelberg.de</a> 
 <br>
 <h4 style="color:DodgerBlue;"> Dr. Michael Opata, Facilitator </h4> 
 <p align="justify"> <img src="../figures/Opata.jpg" alt="Opata" style="float:left; width:120px; height:120px;padding: 10px;"><span style="vertical-align:bottom"> Postdoctoral Research Fellow at the Theoretical and Computational Chemistry Group, <br> Heidelberg University, Germany. </span> </p> <br>
+<br>
+<br>
+<br>
+<br>
+
+<h4 style="color:DodgerBlue;"> Dr. Christin Zeitz, Facilitator </h4> 
+<p align="justify"> <img src="../figures/Zeitz.png" alt="Zeitz" style="float:left; width:120px; height:120px;padding: 10px;"><span style="vertical-align:bottom"> Institute for Energy and Environmental Research (IFEU),
+  Germany </span> <br> Visit <a href="https://www.ifeu.de/en/staff/detail/christin-zeitz/"><span style="text-align:center">Dr. Zeitz's website</span></a> for more information about her work. </p> <br>
+
 
 
 
