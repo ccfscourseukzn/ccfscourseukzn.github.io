@@ -6,7 +6,7 @@ title: Climate Change, Food System and Remote Sensing
 <h1 style="background-color:white; color:black; text-align: center;">  Data Science Initiative for Africa (DSI-A) Training Programme </h1><br>
 
 
-<h2 style="background-color:white; color:black; text-align: center;">  A Short Course in Climate Change, Food systems and Remote Sensing with a focus on Health Data Science </h2> <br>
+<h2 style="background-color:white; color:black; text-align: center;">  A Short Course in Climate Change, Food Systems and Remote Sensing with a Focus on Health Data Science </h2> <br>
 
 <h4 style="background-color:Tomato; color:white; text-align: center;"> Note: Lectures will start from 9:00 - 17:00 (South Africa Time) for  each Day. </h4> 
 
