@@ -63,68 +63,68 @@ title: Climate Change, Food System and Remote Sensing
   </tr>
 
   <tr>
-    <td class="tg-amwm">09:00-10:30</td>
-    <td class="tg-0lax"> 1.Welcome and overview of course <br> 
+    <td> 09:00-10:30</td>
+    <td> 1.Welcome and overview of course <br> 
        2.Introduction to concepts and indicators: Climate change and weather </td>
-    <td class="tg-0lax"> Definition  and History of Remote Sensing </td>
-    <td class="tg-0lax"> Satellite image pre-processing </td>
-    <td class="tg-0lax">Introduction to concepts and indicators: Food Systems </td>
-    <td class="tg-0lax"> Self-Study: Massive Open Online Course on Research Methods for the study of Climate Change and Health </td>
+    <td> Definition  and History of Remote Sensing </td>
+    <td> Satellite image pre-processing </td>
+    <td>Introduction to concepts and indicators: Food Systems </td>
+    <td> Self-Study: Massive Open Online Course on Research Methods for the study of Climate Change and Health </td>
     
   </tr>
   <tr>
-    <td class="tg-amwm">10:30-11:00</td>
-    <td class="tg-0lax">Break</td>
-    <td class="tg-0lax">Break</td>
-    <td class="tg-0lax">Break</td>
-    <td class="tg-0lax">Break</td>
-    <td class="tg-0lax">Break</td>
+    <td>10:30-11:00</td>
+    <td>Break</td>
+    <td>Break</td>
+    <td>Break</td>
+    <td>Break</td>
+    <td>Break</td>
     
   </tr>
   <tr>
-    <td class="tg-amwm">11:00-12:30</td>
-    <td class="tg-0lax"> Practical: Using public databases for climate change and weather </td>
-    <td class="tg-0lax"> Energy interactions with  objectives</td>
-    <td class="tg-0lax"> Unsupervised Image Classification </td>
-    <td class="tg-0lax"> Practical: Interpret country profiles of the Food Systems Dashboard </td>
-    <td class="tg-0lax">Self-Study: Massive Open Online Course on Research Methods for the study of Climate Change and Health</td>
+    <td>11:00-12:30</td>
+    <td> Practical: Using public databases for climate change and weather </td>
+    <td> Energy interactions with  objectives</td>
+    <td> Unsupervised Image Classification </td>
+    <td> Practical: Interpret country profiles of the Food Systems Dashboard </td>
+    <td>Self-Study: Massive Open Online Course on Research Methods for the study of Climate Change and Health</td>
     
   </tr>
   <tr>
-    <td class="tg-amwm">12:30-13:30</td>
-    <td class="tg-0lax">Lunch</td>
-    <td class="tg-0lax">Lunch</td>
-    <td class="tg-0lax">Lunch</td>
-    <td class="tg-0lax">Lunch</td>
-    <td class="tg-0lax">Lunch</td>
+    <td>12:30-13:30</td>
+    <td>Lunch</td>
+    <td>Lunch</td>
+    <td>Lunch</td>
+    <td>Lunch</td>
+    <td>Lunch</td>
     
   </tr>
   
   <tr>
-    <td class="tg-amwm">13:30-15:00</td>
-    <td class="tg-0lax">Introduction to concepts and indicators: Environmental footprints of foods </td>
-    <td class="tg-0lax"> Sensors and Platforms </td>
-    <td class="tg-0lax"> Supervised Image Classification </td>
-    <td class="tg-0lax"> Introduction to concepts and indicators: Nutritional status and Dietary Behaviours </td>
-    <td class="tg-0lax">Self-Study: Massive Open Online Course on Research Methods for the study of Climate Change and Health</td>
+    <td>13:30-15:00</td>
+    <td>Introduction to concepts and indicators: Environmental footprints of foods </td>
+    <td> Sensors and Platforms </td>
+    <td> Supervised Image Classification </td>
+    <td> Introduction to concepts and indicators: Nutritional status and Dietary Behaviours </td>
+    <td>Self-Study: Massive Open Online Course on Research Methods for the study of Climate Change and Health</td>
     
   </tr>
   <tr>
-    <td class="tg-amwm">15:00-15:30</td>
-    <td class="tg-0lax">Break</td>
-    <td class="tg-0lax">Break</td>
-    <td class="tg-0lax">Break</td>
-    <td class="tg-0lax">Break</td>
-    <td class="tg-0lax">Break</td>
+    <td>15:00-15:30</td>
+    <td>Break</td>
+    <td>Break</td>
+    <td>Break</td>
+    <td>Break</td>
+    <td>Break</td>
     
   </tr>
   <tr>
-    <td class="tg-amwm">15:30-17:00</td>
-    <td class="tg-0lax">Practical: Using public databases for life-cycle assessment of foods </td>
-    <td class="tg-0lax"> Resolutions in remote sensing </td>
-    <td class="tg-0lax">Supervised Image Classification (Cont'd)</td>
-    <td class="tg-0lax"> Practical: How to compute overall diet quality indicators </td>
-    <td class="tg-0lax"> Self-Study: Massive Open Online Course on Research Methods for the study of Climate Change and Health </td>
+    <td>15:30-17:00</td>
+    <td>Practical: Using public databases for life-cycle assessment of foods </td>
+    <td> Resolutions in remote sensing </td>
+    <td>Supervised Image Classification (Cont'd)</td>
+    <td> Practical: How to compute overall diet quality indicators </td>
+    <td> Self-Study: Massive Open Online Course on Research Methods for the study of Climate Change and Health </td>
     
   </tr>
   </table>
