@@ -53,12 +53,12 @@ title: Climate Change, Food System and Remote Sensing
     <th colspan="7" style="background-color: #304C75;"><b><b><b><b>WEEK 1</b></b></b></b></th>
   </tr>
   <tr>
-    <th class="tg-amwm">Time</th>
-    <th class="tg-amwm">Monday 10/07</th>
-    <th class="tg-amwm">Tuesday 11/07</th>
-    <th class="tg-amwm">Wednesday 12/07</th>
-    <th class="tg-amwm">Thursday 13/07</th>
-    <th class="tg-amwm">Friday 14/07</th>
+    <th><b>Time</b></th>
+    <th><b>Monday 10/07</b></th>
+    <th><b>Tuesday 11/07</b></th>
+    <th><b>Wednesday 12/07</b></th>
+    <th><b>Thursday 13/07</b></th>
+    <th><b>Friday 14/07</b></th>
    
   </tr>
 
@@ -195,12 +195,12 @@ title: Climate Change, Food System and Remote Sensing
     <th colspan="6" style="background-color:#304C75;"><b><b><b><b>WEEK 2</b></b></b></b></th>
   </tr>
   <tr>
-    <th class="tg-amwm">Time</th>
-    <th class="tg-amwm">Monday 17/07</th>
-    <th class="tg-amwm">Tuesday 18/07</th>
-    <th class="tg-amwm">Wednesday 19/07</th>
-    <th class="tg-amwm">Thursday 20/07</th>
-    <th class="tg-amwm">Friday 21/07</th>
+    <th><b>Time</b></th>
+    <th><b>Monday 17/07</b></th>
+    <th><b>Tuesday 18/07</b></th>
+    <th><b>Wednesday 19/07</b></th>
+    <th><b>Thursday 20/07</b></th>
+    <th><b>Friday 21/07</b></th>
   </tr>
 
   <tr>
