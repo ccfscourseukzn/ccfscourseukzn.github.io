@@ -3,50 +3,132 @@ layout: frontpage
 title: Climate Change, Food System and Remote Sensing
 ---
 
+<html lang="en">
+  
+<head>
+    <meta charset="UTF-8">
+     <meta name="viewport" content="width=device-width, initial-scale=1.0"> 
+  
+  
+    <style>
+          body{
+                margin: 0;
+                padding: 0;
+              }
+         img {
+              width: 100%;
+            }
+        h3 {
+            font-size: 1.6em;
+            font-family: serif;
+            color: #008000;
+            text-align: center;
+            animation: animate 
+                1.5s linear infinite;
+        }
+       @keyframes animate {
+            0% {
+                opacity: 0;
+            }
+  
+            50% {
+                opacity: 0.7;
+            }
+  
+            100% {
+                opacity: 0;
+            }
+        }
+      
+        #virtual {
+                  font-family: Arial, Helvetica, sans-serif;
+                  border-collapse: collapse;
+                  width: 100%;
+                }
+       #virtual td, #virtual th {
+          border: 1px solid #ddd;
+          padding: 8px;
+        }
+
+        #virtual tr:nth-child(even){background-color: #f2f2f2;}
+
+        #virtual tr:hover {background-color: #ddd;}
+
+          #virtual th {
+            padding-top: 12px;
+            padding-bottom: 12px;
+            text-align: center;
+            background-color: #b8d064;
+            color: white;
+          }
+
+          #inpersonw1 {
+            font-family: Arial, Helvetica, sans-serif;
+            border-collapse: collapse;
+            width: 100%;
+          }
+  #inpersonw1 td, #inpersonw1 th {
+            border: 1px solid #ddd;
+            padding: 8px;
+          }
+
+          #inpersonw1 tr:nth-child(even){background-color: #f2f2f2;}
+
+          #inpersonw1 tr:hover {background-color: #ddd;}
+
+          #inpersonw1 th {
+            padding-top: 12px;
+            padding-bottom: 12px;
+            text-align: center;
+            background-color: #b8d064;
+            color: white;
+          }
+
+          #inpersonw2 {
+            font-family: Arial, Helvetica, sans-serif;
+            border-collapse: collapse;
+            width: 100%;
+          }
+
+          #inpersonw2 td, #inpersonw2 th {
+            border: 1px solid #ddd;
+            padding: 8px;
+          }
+
+          #inpersonw2 tr:nth-child(even){background-color: #f2f2f2;}
+
+          #inpersonw2 tr:hover {background-color: #ddd;}
+
+          #inpersonw2 th {
+            padding-top: 12px;
+            padding-bottom: 12px;
+            text-align: center;
+            background-color: #b8d064;
+            color: white;
+          }
+    </style>
+</head>
+  
+<body>
+  
 <h1 style="background-color:white; color:black; text-align: center;">  Data Science Initiative for Africa (DSI-A) Training Programme </h1><br>
 
 
 <h2 style="background-color:white; color:black; text-align: center;">  A Short Course in Climate Change, Food Systems and Remote Sensing with a Focus on Health Data Science </h2> <br>
 
-<h4 style="background-color:Tomato; color:white; text-align: center;"> Note: Lectures will start from 9:00 - 17:00 (South Africa Time) for  each Day. </h4> 
+<h3 style="background-color:white; color:Red; text-align: center;"> Lectures will start from 9:00 - 17:00 (South Africa Time) for  each Day. </h3> <br>
+ 
 
 <h2 style="background-color:white; color:blue; text-align: center;"> Dates: Monday 10th July- Friday 21st July 2023</h2> <br>
 
-#### Venue: [To be Confirmed,] Durban, South Africa.
+  <h3> Venue: [To be Confirmed,] Durban, South Africa.</h3>
 
 #### Please use the following link: [ZOOM LINK](https://harvard.zoom.us/meeting/register/tJUkce6tqjsvHNydfIXyERdbS2CJvk5ppazy).
 
-<html>
-<head>
-<style>
-#inpersonw1 {
-  font-family: Arial, Helvetica, sans-serif;
-  border-collapse: collapse;
-  width: 100%;
-}
-
-#inpersonw1 td, #inpersonw1 th {
-  border: 1px solid #ddd;
-  padding: 8px;
-}
-
-#inpersonw1 tr:nth-child(even){background-color: #f2f2f2;}
-
-#inpersonw1 tr:hover {background-color: #ddd;}
-
-#inpersonw1 th {
-  padding-top: 12px;
-  padding-bottom: 12px;
-  text-align: center;
-  background-color: #b8d064;
-  color: white;
-}
-</style>
-</head>
-<body>
 
 
-<h3>Lectures Schedules </h3>
+
+<h2>Lectures Schedules </h2>
 
 <table id="inpersonw1">
   <tr>
@@ -128,66 +210,7 @@ title: Climate Change, Food System and Remote Sensing
     
   </tr>
   </table>
- </body>
- </html>
-
-<html>
-<head>
-<style>
-#inpersonw2 {
-  font-family: Arial, Helvetica, sans-serif;
-  border-collapse: collapse;
-  width: 100%;
-}
-
-#inpersonw2 td, #inpersonw2 th {
-  border: 1px solid #ddd;
-  padding: 8px;
-}
-
-#inpersonw2 tr:nth-child(even){background-color: #f2f2f2;}
-
-#inpersonw2 tr:hover {background-color: #ddd;}
-
-#inpersonw2 th {
-  padding-top: 12px;
-  padding-bottom: 12px;
-  text-align: center;
-  background-color: #ACDF87;
-  color: white;
-}
-</style>
-</head>
-<body>
-
-<html>
-<head>
-<style>
-#inpersonw2 {
-  font-family: Arial, Helvetica, sans-serif;
-  border-collapse: collapse;
-  width: 100%;
-}
-
-#inpersonw2 td, #inpersonw2 th {
-  border: 1px solid #ddd;
-  padding: 8px;
-}
-
-#inpersonw2 tr:nth-child(even){background-color: #f2f2f2;}
-
-#inpersonw2 tr:hover {background-color: #ddd;}
-
-#inpersonw2 th {
-  padding-top: 12px;
-  padding-bottom: 12px;
-  text-align: center;
-  background-color: #b8d064;
-  color: white;
-}
-</style>
-</head>
-<body>
+<br>
 
 
 <table id="inpersonw2">
