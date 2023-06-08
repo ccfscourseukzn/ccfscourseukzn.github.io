@@ -7,7 +7,7 @@ title: Climate Change, Food System and Remote Sensing
   
 <head>
     <meta charset="UTF-8">
-     <meta name="viewport" content="width=device-width, initial-scale=1.2"> 
+     <meta name="viewport" content="width=device-width, initial-scale=1.0"> 
   
   
     <style>
@@ -111,7 +111,7 @@ title: Climate Change, Food System and Remote Sensing
   
 <body>
   
-<h2 style="background-color:white; color:black; text-align: center;">  Data Science Initiative for Africa (DSI-A) Training Programme </h2><br>
+<h2 style="background-color:white; color:black; text-align: center;"> Data Science Initiative for Africa (DSI-A) Training Programme </h2><br>
 
 
 <h2 style="background-color:white; color:black; text-align: center;">  A Short Course in Climate Change, Food Systems and Remote Sensing with a Focus on Health Data Science </h2> <br>
@@ -144,7 +144,7 @@ title: Climate Change, Food System and Remote Sensing
   </tr>
 
   <tr>
-    <td> 09:00-10:30</td>
+    <td> 09:00 - 10:30</td>
     <td> 1.Welcome and overview of course <br> 
        2.Introduction to concepts and indicators: Climate change and weather </td>
     <td> Definition  and History of Remote Sensing </td>
@@ -154,7 +154,7 @@ title: Climate Change, Food System and Remote Sensing
     
   </tr>
   <tr>
-    <td>10:30-11:00</td>
+    <td>10:30 - 11:00</td>
     <td>Break</td>
     <td>Break</td>
     <td>Break</td>
@@ -163,7 +163,7 @@ title: Climate Change, Food System and Remote Sensing
     
   </tr>
   <tr>
-    <td>11:00-12:30</td>
+    <td>11:00 - 12:30</td>
     <td> Practical: Using public databases for climate change and weather </td>
     <td> Energy interactions with  objectives</td>
     <td> Unsupervised Image Classification </td>
@@ -172,7 +172,7 @@ title: Climate Change, Food System and Remote Sensing
     
   </tr>
   <tr>
-    <td>12:30-13:30</td>
+    <td>12:30 - 13:30</td>
     <td>Lunch</td>
     <td>Lunch</td>
     <td>Lunch</td>
@@ -182,7 +182,7 @@ title: Climate Change, Food System and Remote Sensing
   </tr>
   
   <tr>
-    <td>13:30-15:00</td>
+    <td>13:30 - 15:00</td>
     <td>Introduction to concepts and indicators: Environmental footprints of foods </td>
     <td> Sensors and Platforms </td>
     <td> Supervised Image Classification </td>
@@ -191,7 +191,7 @@ title: Climate Change, Food System and Remote Sensing
     
   </tr>
   <tr>
-    <td>15:00-15:30</td>
+    <td>15:00 - 15:30</td>
     <td>Break</td>
     <td>Break</td>
     <td>Break</td>
@@ -200,7 +200,7 @@ title: Climate Change, Food System and Remote Sensing
     
   </tr>
   <tr>
-    <td>15:30-17:00</td>
+    <td>15:30 - 17:00</td>
     <td>Practical: Using public databases for life-cycle assessment of foods </td>
     <td> Resolutions in remote sensing </td>
     <td>Supervised Image Classification (Cont'd)</td>
