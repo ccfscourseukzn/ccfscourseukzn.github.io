@@ -7,7 +7,7 @@ title: Climate Change, Food System and Remote Sensing
   
 <head>
     <meta charset="UTF-8">
-     <meta name="viewport" content="width=device-width, initial-scale=1.0"> 
+     <meta name="viewport" content="width=device-width, initial-scale=1.2"> 
   
   
     <style>
@@ -111,7 +111,7 @@ title: Climate Change, Food System and Remote Sensing
   
 <body>
   
-<h1 style="background-color:white; color:black; text-align: center;">  Data Science Initiative for Africa (DSI-A) Training Programme </h1><br>
+<h2 style="background-color:white; color:black; text-align: center;">  Data Science Initiative for Africa (DSI-A) Training Programme </h2><br>
 
 
 <h2 style="background-color:white; color:black; text-align: center;">  A Short Course in Climate Change, Food Systems and Remote Sensing with a Focus on Health Data Science </h2> <br>
