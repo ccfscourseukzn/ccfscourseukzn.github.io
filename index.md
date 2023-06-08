@@ -217,7 +217,7 @@ title: Climate Change, Food System and Remote Sensing
     <th colspan="6" style="background-color:#304C75;"><b><b><b><b>WEEK 2</b></b></b></b></th>
   </tr>
   <tr>
-    <th><b>Time</b></th>
+    <th><b> Time </b></th>
     <th><b>Monday 17/07</b></th>
     <th><b>Tuesday 18/07</b></th>
     <th><b>Wednesday 19/07</b></th>
@@ -226,7 +226,7 @@ title: Climate Change, Food System and Remote Sensing
   </tr>
 
   <tr>
-    <td class="tg-amwm"><b>09:00-10:30</b></td>
+    <td class="tg-amwm">09:00-10:30 </td>
     <td class="tg-0lax"> Methodological challenges-Identifying the impacts of climate change on dietary habits and nutritional status </td>
     <td class="tg-0lax">Drive solutions for climate change adaptation-Examples of intervention project. <br> Practical example: MEGA in Dodoma </td>
     <td class="tg-0lax"> Introduction to QGIS: <br>
@@ -247,7 +247,7 @@ title: Climate Change, Food System and Remote Sensing
     <td class="tg-0lax"> Supervised Classification Modelling Cont'd. </td>
   </tr>
   <tr>
-    <td class="tg-amwm"><b>10:30-11:00</b></td>
+    <td class="tg-amwm">10:30 - 11:00 </td>
     <td class="tg-0lax">Break</td>
     <td class="tg-0lax">Break</td>
     <td class="tg-0lax">Break</td>
@@ -255,7 +255,7 @@ title: Climate Change, Food System and Remote Sensing
     <td class="tg-0lax">Break</td>
   </tr>
   <tr>
-    <td class="tg-amwm">11:00-12:30</td>
+    <td class="tg-amwm">11:00 - 12:30</td>
     <td class="tg-0lax"> Methodological Solutions - Dimension reduction techniques to identify climate change impacts </td>
     <td class="tg-0lax"> Practical Example: Linear optimization modelling for sustainable diets among Ghanaian migrants</td>
     <td class="tg-0lax"> Spatial data entry and preparation <br> Georeferencing aerial imagery </td>
@@ -268,7 +268,7 @@ title: Climate Change, Food System and Remote Sensing
     <td class="tg-0lax"> Introduction and Calculation of Vegetation Indices </td>
   </tr>
   <tr>
-    <td class="tg-amwm">12:30-13:30</td>
+    <td class="tg-amwm">12:30 - 13:30</td>
     <td class="tg-0lax">Lunch</td>
     <td class="tg-0lax">Lunch</td>
     <td class="tg-0lax">Lunch</td>
@@ -276,7 +276,7 @@ title: Climate Change, Food System and Remote Sensing
     <td class="tg-0lax">Lunch</td>
   </tr>
   <tr> 
-    <td class="tg-amwm">13:30-15:00</td>
+    <td class="tg-amwm">13:30 - 15:00</td>
     <td class="tg-0lax"> Methodological Solutions- Machine learning approaches to identify climate change impacts </td>
     <td class="tg-0lax"> Derive solutions for climate change mitigation - Optimization modelling and substitution approaches for sustainable diets. <br> 
     Sustainable dietary weight loss approach </td>
@@ -285,7 +285,7 @@ title: Climate Change, Food System and Remote Sensing
     <td class="tg-0lax">Synthesis (recap) and Course Evaluation</td>
   </tr>
   <tr>
-    <td class="tg-amwm">15:00-15:30</td>
+    <td class="tg-amwm">15:00 - 15:30</td>
     <td class="tg-0lax">Break</td>
     <td class="tg-0lax">Break</td>
     <td class="tg-0lax">Break</td>
@@ -302,7 +302,7 @@ title: Climate Change, Food System and Remote Sensing
   </tr>
   
   <tr> 
-    <td class="tg-amwm">16:15-17:00</td>
+    <td class="tg-amwm">16:15 - 17:00</td>
     <td class="tg-0lax"> Methodological solutions – Down-scaled climate change impact models </td>
     <td class="tg-0lax"> Tutored group work to derive methodological solutions for the 4 project ideas</td>
     <td class="tg-0lax"> DSI Annual Symposium </td>
