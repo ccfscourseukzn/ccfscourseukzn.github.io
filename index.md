@@ -226,7 +226,7 @@ title: Climate Change, Food System and Remote Sensing
   </tr>
 
   <tr>
-    <td class="tg-amwm">09:00-10:30</td>
+    <td class="tg-amwm"><b>09:00-10:30</b></td>
     <td class="tg-0lax"> Methodological challenges-Identifying the impacts of climate change on dietary habits and nutritional status </td>
     <td class="tg-0lax">Drive solutions for climate change adaptation-Examples of intervention project. <br> Practical example: MEGA in Dodoma </td>
     <td class="tg-0lax"> Introduction to QGIS: <br>
@@ -247,7 +247,7 @@ title: Climate Change, Food System and Remote Sensing
     <td class="tg-0lax"> Supervised Classification Modelling Cont'd. </td>
   </tr>
   <tr>
-    <td class="tg-amwm">10:30-11:00</td>
+    <td class="tg-amwm"><b>10:30-11:00</b></td>
     <td class="tg-0lax">Break</td>
     <td class="tg-0lax">Break</td>
     <td class="tg-0lax">Break</td>
