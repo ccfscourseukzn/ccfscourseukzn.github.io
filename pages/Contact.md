@@ -3,7 +3,7 @@ layout: page
 title: Contact 
 --- 
 
-## Course content:
+## Course Content:
 
 ##### Principal Investigator
 * Prof. Wafaie Fawzi - [mina@hsph.harvard.edu](mina@hsph.harvard.edu)
