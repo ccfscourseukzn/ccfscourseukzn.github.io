@@ -7,7 +7,7 @@
   margin: 30px 0; }
 
 .navbar .nav {
-  float:Center ; }
+  float: left; }
 
 /* posts index */
 .post > h3.title {
