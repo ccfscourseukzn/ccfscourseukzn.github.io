@@ -8,7 +8,7 @@ title: Course Evaluation
   
   <ul>
     <li> <h5> Kindly complete this brief course evaluation which would take you about 5 minutes of your time. </h5> </li>
-    <li> <h5 style="background-color:white; color:red; text-align: left;"> Your feedback will improve our delivery of the future courses. </h5> </li>
+    <li> <h5 style="background-color:white; color:red; text-align: left;"> Your feedback would improve the delivery and organization of future courses. </h5> </li>
     </ul>
 
   </body>
