@@ -63,7 +63,7 @@ Email: <a href="mailto:barteit@uni-heidelberg.de">barteit@uni-heidelberg.de</a> 
 <br>
 <h4 style="color:DodgerBlue;"> Dr. Sabri Bromage, Facilitator </h4> 
 <p align="justify"> <img src="../figures/Sabri.png" alt="Sabri" style="float:left; width:120px; height:120px;padding: 10px;"><span style="vertical-align:bottom"> Researcher, Institute of Nutrition, Mahidol University and 
-Research Associate, Department of Nutrition, Harvard T.H. Chan School of Public Health. </span> <br> Visit <a href="https://scholar.harvard.edu/sabri"><span style="text-align:center">Dr. Bromage's website</span></a> for more information about her work. </p> <br>
+Research Associate,<br> Department of Nutrition, Harvard T.H. Chan School of Public Health. </span> <br> Visit <a href="https://scholar.harvard.edu/sabri"><span style="text-align:center">Dr. Bromage's website</span></a> for more information about her work. </p> <br>
 <br>
 <br>
 <br>
