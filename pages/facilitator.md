@@ -13,6 +13,14 @@ Robert Bosch Junior Professor for Sustainable Nutrition in sub-Saharan Africa, H
 Email: <a href="mailto:ina.danquah@uni-heidelberg.de">ina.danquah@uni-heidelberg.de</a> <br>
 <p align="justify"> <img src="../figures/Ina.jpeg" alt="Ina" style="float:left; width:120px; height:120px; padding: 10px;"><span style="vertical-align:bottom"> Ina has trained in nutrition science and epidemiology and has obtained her PhD in Tropical Medicine from Charité – Universitaetsmedizin Berlin, Germany. She has strong research interests in dietary risk factors for infectious diseases, obesity and type 2 diabetes, particularly among African populations under transition. Ina leads a research group on climate change, nutrition and health with the ambition i) to define impacts on dietary habits and nutritional status, ii) to design, implement and evaluate climate change adaptation strategies, and iii) to determine the health co-benefits of climate change mitigation actions. Ina coordinates a large consortium on climate change and health in sub-Saharan Africa, and is Robert Bosch Junior Professor for Sustainable Nutrition in sub-Saharan Africa. She has published more than 90 peer-reviewed articles, has an h-index of 23 and an i10-index of 45. Her work has been cited more than 2100 times. </span> Visit <a href="https://www.klinikum.uni-heidelberg.de/en/personen/jun-prof-pd-dr-ina-danquah-7580"><span style="text-align:center">Prof. Danquah's website</span></a> for more information about his work. </p> <br>
 
+
+
+<h4 style="color:DodgerBlue;"> Dr. Isabel Madzorera, Lead Facilitator </h4> 
+Assistant Professor in Public Health Nutrition, University of California, Berkeley. <br>
+Email: <a href="mailto:imadzorera@berkeley.edu">imadzorera@berkeley.edu </a> <br>
+<p align="justify"> <img src="../figures/IMadzorera Potrait.jpg" alt="IMadzorera Potrait" style="float:left; width:120px; height:120px;padding: 10px;"><span style="vertical-align:bottom"> Dr. Isabel Madzorera is an Assistant Professor in Public Health Nutrition at the University of California, Berkeley, in the division of Community Health Sciences. Dr. Madzorera is a nutrition epidemiologist with interests in the intersection of food systems, nutrition and sustainable diets in low- and middle-income countries (LMICs). The goals of her research program are to utilize advanced nutrition epidemiologic methods to assess diet quality as a key modifiable risk factor for poor maternal and child health outcomes in LMICs, and to identify the role of food systems and other contributing factors to the triple burden of malnutrition in these contexts. Dr. Madzorera has led global health research focusing on the evaluation of food systems and diet quality, and their influence on maternal and child health.  Her previous research has included evaluating the role of maternal diet quality during pregnancy and its impacts on the risk of low birth weight, small for gestational age and preterm births, and also assessing the effect of COVID-19 on food prices and diets. Dr. Madzorera has extensive field-based experience including leading maternal and child nutrition interventions in sub-Saharan Africa. She has spent considerable time working in Zimbabwe, Zambia, Malawi, and Mozambique and conducted research in Tanzania and Ethiopia. Dr. Madzorera has an ScD in Nutritional Epidemiology from the Harvard School of Public Health.  </span> <br> Visit <a href="https://publichealth.berkeley.edu/people/isabel-madzorera/"><span style="text-align:center">Dr. Madzorera's website</span></a> for more information about her work. </p> <br>
+
+
 <h4 style="color:DodgerBlue;"> Prof. John Odindi, Lead Facilitator   </h4>
 Professor, School of Agricultural, Earth and Environmental Sciences, University of KwaZulu-Natal, South Africa. <br>
 Email: <a href="mailto:odindij@ukzn.ac.za">odindij@ukzn.ac.za</a> <br>
@@ -49,13 +57,6 @@ Email: <a href="mailto:barteit@uni-heidelberg.de">barteit@uni-heidelberg.de</a> 
 <br>
 <h4 style="color:DodgerBlue;"> Dr. Irmgard Jordan, Facilitator </h4> 
 <p align="justify"> <img src="../figures/Jordan.jpg" alt="Jordan" style="float:left; width:120px; height:120px;padding: 10px;"><span style="vertical-align:bottom"> Human Nutrition and Home Economic Scientist – CIM Expert Alliance Bioversity & CIAT. </span> <br> Visit <a href="https://alliancebioversityciat.org/who-we-are/irmgard-jordan"><span style="text-align:center">Dr. Jordan's website</span></a> for more information about her work. </p> <br>
-<br>
-<br>
-<br>
-<br>
-
-<h4 style="color:DodgerBlue;"> Dr. Isabel Madzorera, Facilitator </h4> 
-<p align="justify"> <img src="../figures/IMadzorera Potrait.jpg" alt="IMadzorera Potrait" style="float:left; width:120px; height:120px;padding: 10px;"><span style="vertical-align:bottom"> Assistant Professor in Public Health Nutrition, University of California, Berkeley. </span> <br> Visit <a href="https://publichealth.berkeley.edu/people/isabel-madzorera/"><span style="text-align:center">Dr. Madzorera's website</span></a> for more information about her work. </p> <br>
 <br>
 <br>
 <br>
