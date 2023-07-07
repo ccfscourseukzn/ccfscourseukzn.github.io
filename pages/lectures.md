@@ -8,10 +8,18 @@ Below you'll find a list of links to lecture notes and code as well as links to 
 
 
 
-##### Week 1 - Materials:
+#### Week 1 - Materials:
+##### Day 1
 
+##### Day 2
 
-##### Week 2 - Materials:
+##### Day 3
+
+##### Day 4
+
+##### Day 5
+
+#### Week 2 - Materials:
 
 
 
