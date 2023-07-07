@@ -3,7 +3,6 @@ layout: page
 title: Participants 
 --- 
 
-
 <h4 style="color:DodgerBlue;"> William Nelson Mwakalasya<br> Lecturer/Academic Staff, Muhimbili University of Health and Allied Sciences, Tanzanian  </h4> 
 Email: <a href="mailto:wnmwakalasya@gmail.com">wnmwakalasya@gmail.com</a> <br>
 <p align="justify"> <img src="../figures/WilliamNelson.jpg" alt="WilliamNelson" style="float:left; width:120px; height:120px; padding: 10px;">  
@@ -18,7 +17,6 @@ Email: <a href="mailto:hnabajja@gmail.com">hnabajja@gmail.com</a> <br>
 Hawah has been successful in community resilience programmes and leading research teams for both short-term and long-term research projects for different organizations e.g. Infectious Disease Institute (IDI)School of Public Health Makerere University, The Aids Support Organization (TASO) and Infectious Disease Institute (IDI). </span> <br> 
  <b>Research Interest:</b> Machine Learning; Non Communicable ; Climate Change </p> <br> 
   
-
 <h4 style="color:DodgerBlue;"> Samuel Oluwafemi Oyamakin <br> Lecturer, University of Ibadan and University of Ibadan Research Foundation, Nigeria  </h4> 
 Email: <a href="mailto:fm_oyamakin@yahoo.com">fm_oyamakin@yahoo.com</a> <br>
 <p align="justify"> <img src="../figures/Oluwafem.jpeg" alt="Oluwafem" style="float:left; width:120px; height:120px; padding: 10px;">  
