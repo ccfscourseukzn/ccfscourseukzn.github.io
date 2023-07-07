@@ -4,10 +4,12 @@ title: Participants
 --- 
 
 
-<h4 style="color:DodgerBlue;"> Dr. Sandra Barteit, Facilitator, Training Director HIGH </h4> 
-Email: <a href="mailto:barteit@uni-heidelberg.de">barteit@uni-heidelberg.de</a> <br>
+<h4 style="color:DodgerBlue;"> William Nelson Mwakalasya , Lecturer/Academic Staff, Muhimbili University of Health and Allied Sciences, Tanzanian  </h4> 
+Email: <a href="mailto:wnmwakalasya@gmail.com">wnmwakalasya@gmail.com</a> <br>
 <p align="justify"> <img src="../figures/Sandra.jpg" alt="Sandra" style="float:left; width:120px; height:120px; padding: 10px;">  
-  <span style="vertical-align:bottom"> Research Group Leader for Digital Global Health Heidelberg Institute of Global Health, Germany. </span> <br> Visit <a href="https://www.klinikum.uni-heidelberg.de/index.php?id=143349&no_cache=1&type=98"><span style="text-align:center">Dr. Barteit's website </span></a> for more information about her work. </p> <br> 
+  <span style="vertical-align:bottom"> I'm Environmental Health Practitioner based on environmental and occupational toxicology. My mission is to uncover the role of the ever-changing environment in the epidemiology of diseases. My current focus is on understanding how the agriculture sector affects the health of those working there. </span> <br> 
+  Research Interest: occupational toxicology; climate change; environmental toxicology </p> <br> 
+  
 <br>
 <br>
 <br>
