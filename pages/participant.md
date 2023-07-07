@@ -4,11 +4,11 @@ title: Participants
 --- 
 
 
-<h4 style="color:DodgerBlue;"> William Nelson Mwakalasya, Lecturer/Academic Staff, Muhimbili University of Health and Allied Sciences, Tanzanian  </h4> 
+<h4 style="color:DodgerBlue;"> William Nelson Mwakalasya<br> Lecturer/Academic Staff, Muhimbili University of Health and Allied Sciences, Tanzanian  </h4> 
 Email: <a href="mailto:wnmwakalasya@gmail.com">wnmwakalasya@gmail.com</a> <br>
 <p align="justify"> <img src="../figures/WilliamNelson.jpg" alt="WilliamNelson" style="float:left; width:120px; height:120px; padding: 10px;">  
   <span style="vertical-align:bottom"> I'm Environmental Health Practitioner based on environmental and occupational toxicology. My mission is to uncover the role of the ever-changing environment in the epidemiology of diseases. My current focus is on understanding how the agriculture sector affects the health of those working there. </span> <br> 
-  Research Interest: occupational toxicology; climate change; environmental toxicology </p> <br> 
+ <b>Research Interest:</b> Occupational toxicology; climate change; environmental toxicology </p> <br> 
   
 <br>
 <br>
