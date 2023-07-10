@@ -18,7 +18,7 @@ Below you'll find a list of links to lecture notes and code as well as links to 
 
 <a href="https://ccfscourseukzn.github.io/PDFLectures/Bernd Franke_LCA of food systems.pptx" download> Introduction to Concepts and Indicators: Environmental footprints of foods - Bernd Franke</a> <br>
 
-<a href="https://ccfscourseukzn.github.io/PDFLectures/Bernd Franke_LCA of food systems.pptx" download> Introduction to Concepts and Indicators: Environmental footprints of foods - Bernd Franke</a> <br>
+<a href="https://ccfscourseukzn.github.io/PDFLectures/Bernd Franke_Base Carbone - données V18.1.xlsx" download> Introduction to Concepts and Indicators: Environmental footprints of foods - Bernd Franke</a> <br>
 
 ##### Day 2
 
