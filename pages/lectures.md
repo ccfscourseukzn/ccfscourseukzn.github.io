@@ -14,7 +14,11 @@ Below you'll find a list of links to lecture notes and code as well as links to 
 
 <a href="https://ccfscourseukzn.github.io/PDFLectures/Evaluation Criteria for Climate Change and Weather Databases.docx" download> Practical: Using public databases for climate change and weather - Dr. Sandra Barteit</a> <br>
 
-<a href="https://www.cch-africa.de" > The website for the Research Unit on Climate Change and Health- Dr. Sandra Barteit</a> <br>
+<a href="https://www.cch-africa.de" > The website for the Research Unit on Climate Change and Health- Dr. Sandra Barteit</a> <be>
+
+<a href="https://ccfscourseukzn.github.io/PDFLectures/Bernd Franke_LCA of food systems.pptx" download> Introduction to Concepts and Indicators: Environmental footprints of foods - Bernd Franke</a> <br>
+
+<a href="https://ccfscourseukzn.github.io/PDFLectures/Bernd Franke_LCA of food systems.pptx" download> Introduction to Concepts and Indicators: Environmental footprints of foods - Bernd Franke</a> <br>
 
 ##### Day 2
 
