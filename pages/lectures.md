@@ -26,7 +26,9 @@ Below you'll find a list of links to lecture notes and code as well as links to 
 <a href="https://ccfscourseukzn.github.io/PDFLectures/History of remote sensing.pptx" download> Definition and History of Remote Sensing--Dr. Trylee Matongera</a> <br>
 
 <a href="https://ccfscourseukzn.github.io/PDFLectures/Energy interaction.ppt" download> Energy interactions--Dr. Mthembenio Mngadi</a> <br>
+<a href="https://ccfscourseukzn.github.io/PDFLectures/History of remote sensing.pptx" download> Definition and History of Remote Sensing--Dr. Trylee Matongera</a> <br>
 
+<a href="https://ccfscourseukzn.github.io/PDFLectures/Energy interaction.ppt" download> Energy interactions--Dr. Mthembenio Mngadi</a> <br>
 
 
 
