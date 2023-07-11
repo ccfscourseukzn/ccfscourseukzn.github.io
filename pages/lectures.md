@@ -20,6 +20,8 @@ Below you'll find a list of links to lecture notes and code as well as links to 
 
 <a href="https://ccfscourseukzn.github.io/PDFLectures/Bernd Franke_Base Carbone - données V18.1.xlsx" download> Introduction to Concepts and Indicators: Environmental footprints of foods - Bernd Franke</a> <br>
 
+<a href="https://harvard.zoom.us/rec/share/Ze2JowCeZBwvbeH-epTlpBdyw0jlEY3n7VDmHm-JhuPhqIzpMkOqiRMYlLXyA46X.kd9ZTtfso6czoxrw?startTime=1688971304000" > Video of Day 1 Sessions</a> <br>
+
 ##### Day 2
 
 ##### Day 3
