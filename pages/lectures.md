@@ -20,7 +20,7 @@ Below you'll find a list of links to lecture notes and code as well as links to 
 
 <a href="https://ccfscourseukzn.github.io/PDFLectures/Bernd Franke_Base Carbone - données V18.1.xlsx" download> Introduction to Concepts and Indicators: Environmental footprints of foods - Bernd Franke</a> <br>
 
-<a href="https://harvard.zoom.us/rec/share/Ze2JowCeZBwvbeH-epTlpBdyw0jlEY3n7VDmHm-JhuPhqIzpMkOqiRMYlLXyA46X.kd9ZTtfso6czoxrw?startTime=1688971304000" > Video of Day 1 Sessions</a> <be>
+<a href="https://harvard.zoom.us/rec/share/Ze2JowCeZBwvbeH-epTlpBdyw0jlEY3n7VDmHm-JhuPhqIzpMkOqiRMYlLXyA46X.kd9ZTtfso6czoxrw?startTime=1688971304000" download > Video of Day 1 Sessions</a> <be>
 
 <h4> Day 2: </h4>
 <a href="https://ccfscourseukzn.github.io/PDFLectures/History of remote sensing.pptx" download> Definition and History of Remote Sensing--Dr. Trylee Matongera</a> <br>
@@ -28,7 +28,7 @@ Below you'll find a list of links to lecture notes and code as well as links to 
 <a href="https://ccfscourseukzn.github.io/PDFLectures/Energy interaction.ppt" download> Energy interactions--Dr. Mthembenio Mngadi</a> <br>
 <a href="https://ccfscourseukzn.github.io/PDFLectures/Sensors and Platforms.pptx" download> Sensors and Platforms--Dr. Trylee Matongera and Dr. Mthembenio Mngadi </a> <br>
 
-<a href="https://ccfscourseukzn.github.io/PDFLectures/Energy interaction.ppt" download> Energy interactions--Dr. Mthembenio Mngadi</a> <br>
+<a href="https://ccfscourseukzn.github.io/PDFLectures/Resolutions in remote sensing.ppt" download> Resolutions in Remote Sensing--Dr. Mthembenio Mngadi</a> <br>
 
 
 
