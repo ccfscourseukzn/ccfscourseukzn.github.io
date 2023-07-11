@@ -23,9 +23,9 @@ Below you'll find a list of links to lecture notes and code as well as links to 
 <a href="https://harvard.zoom.us/rec/share/Ze2JowCeZBwvbeH-epTlpBdyw0jlEY3n7VDmHm-JhuPhqIzpMkOqiRMYlLXyA46X.kd9ZTtfso6czoxrw?startTime=1688971304000" > Video of Day 1 Sessions</a> <be>
 
 <h4> Day 2: </h4>
-<a href="https://ccfscourseukzn.github.io/PDFLectures/History of remote sensing.pptx" download> Definition and History of Remote Sensing-Dr. Trylee Matongera</a> <br>
+<a href="https://ccfscourseukzn.github.io/PDFLectures/History of remote sensing.pptx" download> Definition and History of Remote Sensing--Dr. Trylee Matongera</a> <br>
 
-<a href="https://ccfscourseukzn.github.io/PDFLectures/Energy interaction.pptx" download> Energy interactions-Dr.Mthembenio Mngadi</a> <br>
+<a href="https://ccfscourseukzn.github.io/PDFLectures/Energy interaction.pptx" download> Energy interactions--Dr. Mthembenio Mngadi</a> <br>
 
 
 
