@@ -47,6 +47,7 @@ Below you'll find a list of links to lecture notes and code as well as links to 
 ##### Day 4
 
 ##### Day 5
+<a href="https://drive.google.com/drive/folders/1l0IjCdawBRgJBDOvxofG0tL3MA0nNq4p" download> Downloadable Video for the Sessions</a> <br>
 
 #### Week 2 - Materials:
 
