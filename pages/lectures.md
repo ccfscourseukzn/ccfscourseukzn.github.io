@@ -22,7 +22,6 @@ Below you'll find a list of links to lecture notes and code as well as links to 
 
 <a href="https://harvard.zoom.us/rec/share/Ze2JowCeZBwvbeH-epTlpBdyw0jlEY3n7VDmHm-JhuPhqIzpMkOqiRMYlLXyA46X.kd9ZTtfso6czoxrw?startTime=1688971304000" download > Video of Day 1 Sessions</a> <br>
 
-<a !href="https://stuukznac-my.sharepoint.com/personal/kallahdagadug_ukzn_ac_za/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fkallahdagadug%5Fukzn%5Fac%5Fza%2FDocuments%2FDSI%2DA%20Short%20Course%20Videos%202023%2FDay%201%20Sessions%2Emp4&parent=%2Fpersonal%2Fkallahdagadug%5Fukzn%5Fac%5Fza%2FDocuments%2FDSI%2DA%20Short%20Course%20Videos%202023" download > Downloadable Video for Day 1 Sessions</a> <br>
 
 <h4> Day 2: </h4>
 <a href="https://ccfscourseukzn.github.io/PDFLectures/History of remote sensing.pptx" download> Definition and History of Remote Sensing--Dr. Trylee Matongera</a> <br>
