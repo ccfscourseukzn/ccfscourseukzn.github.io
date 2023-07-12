@@ -34,7 +34,8 @@ Below you'll find a list of links to lecture notes and code as well as links to 
 
 
 <h4> Day 3:</h4>
-<a href="https://ccfscourseukzn.github.io/PDFLectures/Resolutions in remote sensing.ppt" download> Resolutions in Remote Sensing--Dr. Mthembenio Mngadi</a> <br>
+<a href="https://ccfscourseukzn.github.io/PDFLectures/Image pre-processing.ppt" download> Sateli
+  lite Image Pre-processing--Dr. Mthembenio Mngadi</a> <br>
 
 <a href="https://ccfscourseukzn.github.io/PDFLectures/Resolutions in remote sensing.ppt" download> Resolutions in Remote Sensing--Dr. Mthembenio Mngadi</a> <br>
 
