@@ -41,7 +41,7 @@ Below you'll find a list of links to lecture notes and code as well as links to 
 
 <a href="https://ccfscourseukzn.github.io/PDFLectures/Supervise Classification.ppt" download> Supervise Image Classification--Dr. Mthembenio Mngadi</a> <br>
 
-<a href="https://ccfscourseukzn.github.io/PDFLectures/Resolutions in remote sensing.ppt" download> Resolutions in Remote Sensing--Dr. Mthembenio Mngadi</a> <br>
+<a href="https://ccfscourseukzn.github.io/PDFLectures/Accuracy Assessment.pptx" download> Assessment Accuracy--Dr. Mthembenio Mngadi</a> <br>
 
 
 ##### Day 4
