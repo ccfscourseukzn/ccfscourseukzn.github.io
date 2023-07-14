@@ -64,3 +64,24 @@ Email: <a href="mailto:smbanza@gmail.com"> smbanza@gmail.com </a> <br>
 <br>
 <br>
 
+<h4 style="color:DodgerBlue;"> Insaaf Rashid <br> Undergraduate Student, University of KwaZulu Natal, South Africa </h4> 
+Email: <a href="mailto:insaafrashid78660@gmail.com"> insaafrashid78660@gmail.com </a> <br>
+<p align="justify"> <img src="../figures/InsaafRashid.jpg" alt="InsaafRashid" style="float:left; width:120px; height:120px; padding: 10px;">   <span style="vertical-align:bottom"> My name is Insaaf Rashid and I am a final year Bachelor of Commerce student at the University of KwaZulu Natal, majoring in Information Systems and Technology and Supply Chain Management. While I am passionate about leveraging technology and optimizing logistics, I aspire to make a positive impact in the business world through innovative solutions. I have a keen interest in data science and its application in environmental issues, particularly in the field of Supply Chain management. </span> <br> 
+ <b>Research Interest:</b> Sustainability; Data Science; Machine Learning. </p> <br> 
+<br>
+<br>
+
+<h4 style="color:DodgerBlue;"> Mary Amenudzi <br> Research Fellow, Kwame Nkrumah University of Science and Technology, Ghana </h4> 
+Email: <a href="mailto:ewhuraharmah@gmail.com"> ewhuraharmah@gmail.com </a> <br>
+<p align="justify"> <img src="../figures/EwhurahArmah.jpg" alt="EwhurahArmah" style="float:left; width:120px; height:120px; padding: 10px;">   <span style="vertical-align:bottom"> I recently graduated with a Bachelor's Degree in Biological Sciences. I have a strong interest in Microbiology and I'm interested in continuing my education with a Masters Degree in Biological Sciences. I have always had a passion to solve problems specifically health issues, which has brought me this far further into Biostatistics. </span> <br> 
+ <b>Research Interest:</b> Microbiology; infectious disease; biostatistics. </p> <br> 
+<br>
+<br>
+
+<h4 style="color:DodgerBlue;"> Yao Etienne KOUAKOU <br> Lecturer, NANGUI ABROGOUA UNIVERSITY, Abidjan, Côte d'Ivoire </h4> 
+Email: <a href="mailto:etienne.kouakou@csrs.ci"> etienne.kouakou@csrs.ci </a> <br>
+<p align="justify"> <img src="../figures/YAOETIENNE.jpg" alt="YAOETIENNE" style="float:left; width:120px; height:120px; padding: 10px;">   <span style="vertical-align:bottom"> I am a Researcher in the Geosciences and Environment Laboratory at NANGUI ABROGOUA University, Abidjan, Ivory Coast. I have a PhD in Hydrology, Hydrogeology and Environment and a Master's degree in Geomatics. Postdoctoral researcher in the HE2AT Center project, my research focuses on the application of GIS and remote sensing to climate change, water resources and health. </span> <br> 
+ <b>Research Interest:</b> Water ressources; Climate change; geographycal information system. </p> <br> 
+<br>
+<br>
+
