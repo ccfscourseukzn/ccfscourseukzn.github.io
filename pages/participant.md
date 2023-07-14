@@ -86,4 +86,10 @@ Email: <a href="mailto:etienne.kouakou@csrs.ci"> etienne.kouakou@csrs.ci </a> <b
  <b>Research Interest:</b> Water ressources; Climate change; geographycal information system. </p> <br> 
 <br>
 <br>
+<h4 style="color:DodgerBlue;"> Napoleon Bellua Sam <br> Lecturer, University for Development Studies, Ghana </h4> 
+Email: <a href="mailto:belluadsm@yahoo.com"> belluadsm@yahoo.com </a> <br>
+<p align="justify"> <img src="../figures/YAOETIENNE.jpg" alt="YAOETIENNE" style="float:left; width:120px; height:120px; padding: 10px;">   <span style="vertical-align:bottom"> I am a senior lecturer, a PhD holder in Epidemiology and Biostatistics and also a scholar at Leaders of Africa Institute. I am also the manager of the Data Centre established through the collaboration of the NIHR Global Surgery Unit at my University. I am a  multidisciplinary researcher with a special emphasis on Evidence-Based Medicine, Health Care Efficiency Measurement and Statistical modelling. I am also a certified Marriage and Family Counselor.   </span> <br> 
+ <b>Research Interest:</b> Data Science; Climate Change; Health Issues. </p> <br> 
+<br>
+<br>
 
