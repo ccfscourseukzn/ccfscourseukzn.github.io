@@ -187,7 +187,7 @@ title: Climate Change, Food System and Remote Sensing
     <td> Sensors and Platforms </td>
     <td> Supervised Image Classification </td>
     <td> Introduction to concepts and indicators: Nutritional status and Dietary Behaviours </td>
-    <td>Self-Study: Massive Open Online Course on Research Methods for the study of Climate Change and Health</td>
+    <td>Reflection Groupwork: Formulate research question. <br> Deliverable: 1-page on background, specific aim, data needed, exposure or outcome.</td>
     
   </tr>
   <tr>
@@ -205,7 +205,7 @@ title: Climate Change, Food System and Remote Sensing
     <td> Resolutions in remote sensing </td>
     <td>Supervised Image Classification (Cont'd)</td>
     <td> Practical: How to compute overall diet quality indicators </td>
-    <td> Self-Study: Massive Open Online Course on Research Methods for the study of Climate Change and Health </td>
+    <td> Reflection Groupwork: Formulate research question. <br> Deliverable: 1-page on background, specific aim, data needed, exposure or outcome </td>
     
   </tr>
   </table>
