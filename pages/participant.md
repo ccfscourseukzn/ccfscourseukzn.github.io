@@ -3,7 +3,7 @@ layout: page
 title: Participants 
 --- 
 
-<h4 style="color:DodgerBlue;"> William Nelson Mwakalasya<br> Lecturer/Academic Staff, Muhimbili University of Health and Allied Sciences, Tanzanian  </h4> 
+<h4 style="color:DodgerBlue;"> William Nelson Mwakalasya<br> Lecturer, Muhimbili University of Health and Allied Sciences, Tanzanian  </h4> 
 Email: <a href="mailto:wnmwakalasya@gmail.com">wnmwakalasya@gmail.com</a> <br>
 <p align="justify"> <img src="../figures/WilliamNelson.jpg" alt="WilliamNelson" style="float:left; width:120px; height:120px; padding: 10px;">  
   <span style="vertical-align:bottom"> I'm Environmental Health Practitioner based on environmental and occupational toxicology. My mission is to uncover the role of the ever-changing environment in the epidemiology of diseases. My current focus is on understanding how the agriculture sector affects the health of those working there. </span> <br> 
@@ -37,6 +37,8 @@ Email: <a href="mailto:esyeboah@ug.edu.gh">esyeboah@ug.edu.gh </a> <br>
 <p align="justify"> <img src="../figures/Enoch.jpeg" alt="Enoch" style="float:left; width:120px; height:120px; padding: 10px;">  
   <span style="vertical-align:bottom"> I am a statistician and work as a Lecturer at the Department of Statistics and Actuarial Science,  University of Ghana.  </span> <br> 
  <b>Research Interest:</b> Machine learning; Probability; Climate change. </p> <br> 
+<br>
+<br>
 <br>
 <br>
 
