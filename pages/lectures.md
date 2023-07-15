@@ -48,6 +48,7 @@ Below you'll find a list of links to lecture notes and code as well as links to 
 <a href="https://ccfscourseukzn.github.io/PDFLectures/Vorlesung_Food Systems July 2023.pdf" download> Introduction to Concepts and Indicators: Food Systems--Dr. Irmgard Jordan </a> <br>
 <a href="https://ccfscourseukzn.github.io/PDFLectures/Nutritional status_Isabel.pptx" download> Introduction to Concepts and Indicators--Dr. Isabel Madzorera </a> <br>
 
+<a href="https://ccfscourseukzn.github.io/PDFLectures/Sabri presentation.pptx" download> Introduction to Concepts and Indicators--Dr. Sabri Bromage</a> <br>
 
 
 ##### Day 5
