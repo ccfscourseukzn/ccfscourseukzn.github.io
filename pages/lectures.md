@@ -51,10 +51,14 @@ Below you'll find a list of links to lecture notes and code as well as links to 
 <a href="https://ccfscourseukzn.github.io/PDFLectures/Sabri presentation.pptx" download> Introduction to Concepts and Indicators--Dr. Sabri Bromage</a> <br>
 
 
-##### Day 5
+<h4> Day 5:</h4>
 <a href="https://drive.google.com/drive/folders/1l0IjCdawBRgJBDOvxofG0tL3MA0nNq4p" download> Downloadable Video for the Sessions</a> <br>
 
-#### Week 2 - Materials:
+<h3> Week 2 - Materials:</h3>
+<h4> Day 1:</h4>
+<a href="https://ccfscourseukzn.github.io/PDFLectures/ood Systems and the Environment Slides_July 17_Final.pdf" download> Derive Solutions for Climate Change Adaptation--Prof. Wafaie Fawzi </a> <br>
+
+
 
 
 
