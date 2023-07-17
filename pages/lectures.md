@@ -56,7 +56,7 @@ Below you'll find a list of links to lecture notes and code as well as links to 
 
 <h3> Week 2 - Materials:</h3>
 <h4> Day 1:</h4>
-<a href="https://ccfscourseukzn.github.io/PDFLectures/ood Systems and the Environment Slides_July 17_Final.pdf" download> Derive Solutions for Climate Change Adaptation--Prof. Wafaie Fawzi </a> <br>
+<a href="https://ccfscourseukzn.github.io/PDFLectures/" download> Derive Solutions for Climate Change Adaptation--Prof. Wafaie Fawzi </a> <br>
 
 
 
