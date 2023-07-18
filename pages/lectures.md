@@ -65,6 +65,8 @@ Below you'll find a list of links to lecture notes and code as well as links to 
 
 <a href="https://ccfscourseukzn.github.io/PDFLectures/Overview_PotentialDietQualityIndicators_14.12.2022_revised.docx" download> Overview Potential Diet Quality Indicators.docx--Prof. Ina Danquah</a> <br>
 
+<a href="https://ccfscourseukzn.github.io/PDFLectures/Overview_PotentialDietQualityIndicators_14.12.2022_revised.docx" download> Overview Potential Diet Quality Indicators.docx--Prof. Ina Danquah</a> <br>
+
 
 
 
