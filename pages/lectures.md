@@ -63,7 +63,7 @@ Below you'll find a list of links to lecture notes and code as well as links to 
 
 <a href="https://ccfscourseukzn.github.io/PDFLectures/Diet optimization.pdf" download> Linear Optimization of Diets--Dr. G. Kallah-Dagadu</a> <br>
 
-<a href="https://ccfscourseukzn.github.io/PDFLectures/ml_teaching_opata.pptx" download> ML Approaches to identify climate change impacts--Dr. Michael Opata</a> <br>
+<a href="https://ccfscourseukzn.github.io/PDFLectures/Overview_PotentialDietQualityIndicators_14.12.2022_revised.docx" download> Overview Potential Diet Quality Indicators.docx--Prof. Ina Danquah</a> <br>
 
 
 
