@@ -67,10 +67,16 @@ Below you'll find a list of links to lecture notes and code as well as links to 
 
 <a href="https://ccfscourseukzn.github.io/PDFLectures/DSI_Durban_July2023_Mitigation_for_share.pdf" download> Derive solutions for climate change mitigation--Prof. Ina Danquah</a> <br>
 
+<a href="https://ccfscourseukzn.github.io/PDFLectures/Burlingame_Dernini_FAO_2010.pdf" download> Literature-Prof. Ina Danquah</a> <br>
 
+<a href="https://ccfscourseukzn.github.io/PDFLectures/Schulze_BJN_2006.pdf" download> Literature-Prof. Ina Danquah</a> <br>
 
+<a href="https://ccfscourseukzn.github.io/PDFLectures/Seconda_BJN_2019.pdf" download> Literature-Prof. Ina Danquah</a> <br>
 
+<a href="https://ccfscourseukzn.github.io/PDFLectures/Fanzo_AdvNutr_2014.pdf" download> Literature-Prof. Ina Danquah</a> <br>
 
+<a href="https://ccfscourseukzn.github.io/PDFLectures/vanDoreen_FrontNutr_2018.pdf" download> Literature-Prof. Ina Danquah</a> <br>
 
+<a href="https://ccfscourseukzn.github.io/PDFLectures/Willett_Lancet_2019.pdf" download> Literature-Prof. Ina Danquah</a> <br>
 
 
