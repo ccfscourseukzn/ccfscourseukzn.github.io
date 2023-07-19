@@ -79,4 +79,8 @@ Below you'll find a list of links to lecture notes and code as well as links to 
 
 <a href="https://ccfscourseukzn.github.io/PDFLectures/Willett_Lancet_2019.pdf" download> Literature-Prof. Ina Danquah</a> <br>
 
+<h4> Day 3:</h4>
+<a href="https://ccfscourseukzn.github.io/PDFLectures/Practical 1 Manual.pdf" download> Practical 1 Manual-Dr. Trylee Matongera and Dr. Mthembeni Mngadi </a> <br>
+
+<a href="https://ccfscourseukzn.github.io/PDFLectures/Practical 2 Manual.pdf" download> Practical 2 Manual-Dr. Trylee Matongera and Dr. Mthembeni Mngadi </a> <br>
 
