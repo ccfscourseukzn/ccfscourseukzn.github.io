@@ -83,4 +83,6 @@ Below you'll find a list of links to lecture notes and code as well as links to 
 <a href="https://ccfscourseukzn.github.io/PDFLectures/Practical 1 Manual.pdf" download> Practical 1 Manual-Dr. Trylee Matongera and Dr. Mthembeni Mngadi </a> <br>
 
 <a href="https://ccfscourseukzn.github.io/PDFLectures/Practical 2 Manual.pdf" download> Practical 2 Manual-Dr. Trylee Matongera and Dr. Mthembeni Mngadi </a> <br>
+<a href="https://drive.google.com/drive/folders/1FyWbL_DrdCI1pgmGdXSOS9NQpuExtABE" download> Practical Materials-Dr. Trylee Matongera and Dr. Mthembeni Mngadi </a> <br>
+
 
