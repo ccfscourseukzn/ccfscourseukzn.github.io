@@ -98,3 +98,12 @@ Email: <a href="mailto:dumburac@gmail.com"> dumburac@gmail.com </a> <br>
  <b>Research Interest:</b> Climate change, machine learning, maternal and child health. </p> <br> 
 <br>
 <br>
+
+<h4 style="color:DodgerBlue;">Prosper  Adiku <br> Postgraduate Student, University of Ghana, Ghana </h4> 
+Email: <a href="mailto:prosyaw@gmail.com"> prosyaw@gmail.com </a> <br>
+<p align="justify"> <img src="../figures/CherlynnDumbura.jpg" alt=" CherlynnDumbura" style="float:left; width:120px; height:120px; padding: 10px;">   <span style="vertical-align:bottom"> Prosper Adiku is a Ph.D. Candidate at the Institute for Environment and Sanitation Studies (IESS) of the University of Ghana. With his undergraduate and graduate degrees in Oceanography, Fisheries, and Physical Oceanography, respectively. He has a strong background in climate change issues, particularly coastal risks, vulnerabilities, and impacts. He has been part of a number of environmental and climate change-related research and related stakeholder engagement activities involving international, national, and local organisations over the years. He has a keen interest in science communication, and the application of Geographic Information Systems (GIS) in understanding and providing solutions to climate and environmental impacts in hotspots, including coastal areas.   </span> <br> 
+ <b>Research Interest:</b> Climate Change; climate vulnerability; science communication. </p> <br> 
+<br>
+<br>
+
+
