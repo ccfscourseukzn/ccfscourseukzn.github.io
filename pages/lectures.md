@@ -59,6 +59,8 @@ Below you'll find a list of links to lecture notes and code as well as links to 
 <a href="https://ccfscourseukzn.github.io/PDFLectures/Food Systems and the Environment Slides_July 17_Final.pdf" download> Derive Solutions for Climate Change Adaptation--Prof. Wafaie Fawzi </a> <br>
 
 <a href="https://ccfscourseukzn.github.io/PDFLectures/ml_teaching_opata.pptx" download> ML Approaches to identify climate change impacts--Dr. Michael Opata</a> <br>
+<a href="https://ccfscourseukzn.github.io/PDFLectures/Modelling_lecture_Fred.pdf" download> Down-scaled climate change impacts models--Dr. Fred Hattermann</a> <br>
+
 <h4> Day 2:</h4>
 
 <a href="https://ccfscourseukzn.github.io/PDFLectures/Diet optimization.pdf" download> Linear Optimization of Diets--Dr. G. Kallah-Dagadu</a> <br>
@@ -78,6 +80,7 @@ Below you'll find a list of links to lecture notes and code as well as links to 
 <a href="https://ccfscourseukzn.github.io/PDFLectures/vanDoreen_FrontNutr_2018.pdf" download> Literature-Prof. Ina Danquah</a> <br>
 
 <a href="https://ccfscourseukzn.github.io/PDFLectures/Willett_Lancet_2019.pdf" download> Literature-Prof. Ina Danquah</a> <br>
+
 
 <h4> Day 3:</h4>
 <a href="https://ccfscourseukzn.github.io/PDFLectures/Practical 1 Manual.pdf" download> Practical 1 Manual-Dr. Trylee Matongera and Dr. Mthembeni Mngadi </a> <br>
