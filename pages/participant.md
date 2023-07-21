@@ -112,6 +112,15 @@ Email: <a href="mailto:dladlalnt@gmail.com"> dladlalnt@gmail.com </a> <br>
  <b>Research Interest:</b> Nutrition; Food Security; Food Production. </p> <br> 
 <br>
 <br>
+<br>
+<br>
+
+<h4 style="color:DodgerBlue;"> Medina Wandella <br> Postgraduate Student, Muhimbili University of Health and Allied Sciences (MUHAS), Tanzania </h4> 
+Email: <a href="mailto:mwandella@gmail.com"> mwandella@gmail.com </a> <br>
+<p align="justify"> <img src="../figures/Medina.jpg" alt=" Medina" style="float:left; width:120px; height:120px; padding: 10px;">   <span style="vertical-align:bottom"> Medina Wandella, Ph.D. Candidate - Nutritional Epidemiology at Muhimbili University of Health and Allied Sciences (MUHAS) in Tanzania. My study focuses on the Food environment and sustainable healthy diet aiming to enhance maternal nutrition among pregnant women in Tanzania. My research passion is on Maternal, Infant, Young Child, and Adolescent Nutrition (MIYCAN).  </span> <br> 
+ <b>Research Interest:</b> Food environment; Sustainable healthy diet; Maternal and child nutrition. </p> <br> 
+<br>
+<br>
 
 
 
