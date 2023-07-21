@@ -84,5 +84,7 @@ Below you'll find a list of links to lecture notes and code as well as links to 
 
 <a href="https://ccfscourseukzn.github.io/PDFLectures/Practical 2 Manual.pdf" download> Practical 2 Manual-Dr. Trylee Matongera and Dr. Mthembeni Mngadi </a> <br>
 <a href="https://drive.google.com/drive/folders/1FyWbL_DrdCI1pgmGdXSOS9NQpuExtABE" download> Practical Materials-Dr. Trylee Matongera and Dr. Mthembeni Mngadi </a> <br>
+<h4> Day 5:</h4>
+<a href="https://ccfscourseukzn.github.io/PDFLectures/Supervised Classification (1).docx" download> Practical 3 Manual-Dr. Trylee Matongera and Dr. Mthembeni Mngadi </a> <br>
 
 
