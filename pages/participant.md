@@ -121,6 +121,13 @@ Email: <a href="mailto:mwandella@gmail.com"> mwandella@gmail.com </a> <br>
  <b>Research Interest:</b> Food environment; Sustainable healthy diet; Maternal and child nutrition. </p> <br> 
 <br>
 <br>
+Mandu Grace
 
+<h4 style="color:DodgerBlue;"> Mandu Grace Umanah <br> Research Fellow, University of Ibadan Research Foundation, Nigeria </h4> 
+Email: <a href="mailto:mandiemichael15@gmail.com"> mandiemichael15@gmail.com </a> <br>
+<p align="justify"> <img src="../figures/Mandu.jpg" alt=" Mandu" style="float:left; width:120px; height:120px; padding: 10px;">   <span style="vertical-align:bottom"> Mandu is a veterinarian with a Master’s degree in Veterinary Microbiology. I am a research graduate at the University of Ibadan Research Foundation (UI-RF). Also, I am a PhD student at the University of Ibadan. My research interest focuses on Infectious disease, ONE health, zoonosis, maternal, child and adolescent health.  </span> <br> 
+ <b>Research Interest:</b> Infectious disease; ONE Health; Maternal, Child and Adolescent health. </p> <br> 
+<br>
+<br>
 
 
