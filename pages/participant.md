@@ -83,7 +83,7 @@ Email: <a href="mailto:ewhuraharmah@gmail.com"> ewhuraharmah@gmail.com </a> <br>
 <h4 style="color:DodgerBlue;"> Yao Etienne KOUAKOU <br> Lecturer, NANGUI ABROGOUA UNIVERSITY, Abidjan, Côte d'Ivoire </h4> 
 Email: <a href="mailto:etienne.kouakou@csrs.ci"> etienne.kouakou@csrs.ci </a> <br>
 <p align="justify"> <img src="../figures/YAOETIENNE.jpg" alt="YAOETIENNE" style="float:left; width:120px; height:120px; padding: 10px;">   <span style="vertical-align:bottom"> I am a Researcher in the Geosciences and Environment Laboratory at NANGUI ABROGOUA University, Abidjan, Ivory Coast. I have a PhD in Hydrology, Hydrogeology and Environment and a Master's degree in Geomatics. Postdoctoral researcher in the HE2AT Center project, my research focuses on the application of GIS and remote sensing to climate change, water resources and health. </span> <br> 
- <b>Research Interest:</b> Water ressources; Climate change; geographycal information system. </p> <br> 
+ <b>Research Interest:</b> Water and sanitation; Climate change; Health. </p> <br> 
 <br>
 <br>
 <h4 style="color:DodgerBlue;"> Napoleon Bellua Sam <br> Lecturer, University for Development Studies, Ghana </h4> 
