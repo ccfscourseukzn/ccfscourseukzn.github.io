@@ -121,7 +121,6 @@ Email: <a href="mailto:mwandella@gmail.com"> mwandella@gmail.com </a> <br>
  <b>Research Interest:</b> Food environment; Sustainable healthy diet; Maternal and child nutrition. </p> <br> 
 <br>
 <br>
-Mandu Grace
 
 <h4 style="color:DodgerBlue;"> Mandu Grace Umanah <br> Research Fellow, University of Ibadan Research Foundation, Nigeria </h4> 
 Email: <a href="mailto:mandiemichael15@gmail.com"> mandiemichael15@gmail.com </a> <br>
