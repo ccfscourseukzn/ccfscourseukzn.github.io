@@ -129,4 +129,28 @@ Email: <a href="mailto:mandiemichael15@gmail.com"> mandiemichael15@gmail.com </a
 <br>
 <br>
 
+<h4 style="color:DodgerBlue;"> Peter Koleoso <br>  Lecturer, Nile University of Nigeria, Nigeria </h4> 
+Email: <a href="mailto:petalfred@yahoo.com"> petalfred@yahoo.com </a> <br>
+<p align="justify"> <img src="../figures/Mandu.webp" alt=" Mandu" style="float:left; width:120px; height:120px; padding: 10px;">   <span style="vertical-align:bottom"> Peter Koleoso is a reputable statistician with a strong academic background. With a BSc in Mathematical Sciences (Statistics option), an MSc in Medical Statistics, and a PhD in Statistics, Peter possesses extensive expertise in quantitative analysis, research methodologies, data interpretation and communication.  </span> <br> 
+ <b>Research Interest:</b> Biostatistics; Data Science; Climate change. </p> <br> 
+<br>
+<br>
+<h4 style="color:DodgerBlue;">  Ayogeboh Epizitone <br> Postgraduate Student, Durban University of Technology, SA, Cameroonian </h4> 
+Email: <a href="mailto:ayo2811@gmail.com"> ayo2811@gmail.com </a> <br>
+<p align="justify"> <img src="../figures/Mandu.webp" alt=" Mandu" style="float:left; width:120px; height:120px; padding: 10px;">   <span style="vertical-align:bottom"> A. Epizitone is a researcher and a PhD candidate whose research goals and achievements have been centred on Information Technology in the 21st century. She has multiple certificates, diplomas and a master's degree. Her experience and background cover IT, Accounting, Finance, Business, and Management sciences. She is also a Durban University of Technology’s ICT and Society Research group member. She holds a special inclination towards scientific computational methods in the specialized areas of machine intelligence, computer systems, software implementations and data sciences. And she is dedicated to incorporating scientific cutting-edge data-intensive techniques to generate pertinent, astute and valuable solutions to society’s acute problems. Hence her current and future work and interests from this angle delve into the use of data science, Machine learning and artificial intelligence with an emphasis on building long-term intelligent, resilient and sustainable systems for efficient and effective applications.  </span> <br> 
+ <b>Research Interest:</b> Data sciences; information management; Machine Learning & Deep Learning. </p> <br> 
+<br>
+<br>
+<h4 style="color:DodgerBlue;"> Abiodun Ikotun <br> Postgraduate Student, University of Kwazulu-Natal, SA, Nigeria </h4> 
+Email: <a href="mailto:biodunikotun@yahoo.com"> biodunikotun@yahoo.com </a> <br>
+<p align="justify"> <img src="../figures/Mandu.webp" alt=" Mandu" style="float:left; width:120px; height:120px; padding: 10px;">   <span style="vertical-align:bottom"> I recently completed my PhD in Computer Science from University of Kwazulu-Natal, Pietermaritzburg campus with a research focus on Unsupervised Machine Learning. My research interest is in the application of metaheuristic-based clustering algorithms for data analysis.  </span> <br> 
+ <b>Research Interest:</b> Unsupervised learning; Clustering; Image classification. </p> <br> 
+<br>
+<br>
+<h4 style="color:DodgerBlue;"> Rogers Nsubuga <br> Postgraduate Student, Makerere University, Uganda </h4> 
+Email: <a href="mailto:rnsubuga.k@gmail.com"> rnsubuga.k@gmail.com </a> <br>
+<p align="justify"> <img src="../figures/Mandu.webp" alt=" Mandu" style="float:left; width:120px; height:120px; padding: 10px;">   <span style="vertical-align:bottom"> I am a scholar of Biostatistics with experience of over 5 years in HIV research entailing clinical trials, cohort studies and vaccine trials. I am passionate about data science and application to provide solutions to the world.  </span> <br> 
+ <b>Research Interest:</b> Machine Learning;Climatic change; Social Network ananlysis. </p> <br> 
+<br>
+<br>
 
