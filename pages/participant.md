@@ -108,7 +108,7 @@ Email: <a href="mailto:prosyaw@gmail.com"> prosyaw@gmail.com </a> <br>
 
 <h4 style="color:DodgerBlue;"> Ntokozo Thobekile  Dladla <br> Non-Academia, University of KwaZulu-Natal, South Africa </h4> 
 Email: <a href="mailto:dladlalnt@gmail.com"> dladlalnt@gmail.com </a> <br>
-<p align="justify"> <img src="../figures/ProsperAdiku.jpg" alt=" ProsperAdiku" style="float:left; width:120px; height:120px; padding: 10px;">   <span style="vertical-align:bottom"> With a master’s degree in agricultural science, Ntokozo Dladla offers seven years of experience in coordinating research and events. She works at the University of KwaZulu-Natal as a Public Relations Assistant for the College of Agriculture, Engineering & Science.   </span> <br> 
+<p align="justify"> <img src="../figures/NtokozoDladla.jpg" alt=" NtokozoDladla" style="float:left; width:120px; height:120px; padding: 10px;">   <span style="vertical-align:bottom"> With a master’s degree in agricultural science, Ntokozo Dladla offers seven years of experience in coordinating research and events. She works at the University of KwaZulu-Natal as a Public Relations Assistant for the College of Agriculture, Engineering & Science.   </span> <br> 
  <b>Research Interest:</b> Nutrition; Food Security; Food Production. </p> <br> 
 <br>
 <br>
