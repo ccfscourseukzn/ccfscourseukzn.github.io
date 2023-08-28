@@ -155,7 +155,7 @@ Email: <a href="mailto:rnsubuga.k@gmail.com"> rnsubuga.k@gmail.com </a> <br>
 <br>
 <h4 style="color:DodgerBlue;"> Olufemi Adedokun <br> Research Fellow, University of Ibadan Research Foundation Ajibode, Ibadan, Nigeria </h4> 
 Email: <a href="mailto:adedokunolufemi@gmail.com"> adedokunolufemi@gmail.com </a> <br>
-<p align="justify"> <img src="../figures/Olufemi.jpg" alt=" Olufemi" style="float:left; width:120px; height:120px; padding: 10px;">   <span style="vertical-align:bottom"> Adedokun Olufemi is Food Scientist/Nutritionist with a PhD degree in Food Science and Technology. He is also a  registered Public Analyst with expertise in Food analysis. Olufemi is a Research Fellow at the University of Ibadan Research Foundation Ajibode, Ibadan. My research interests are New product development, Adolescent health and nutrition, Neglected Tropical Diseases, Climate change, and Data Science. </span> <br> 
+<p align="justify"> <img src="../figures/Olufemi.jpg" alt="Olufemi" style="float:left; width:120px; height:120px; padding: 10px;">   <span style="vertical-align:bottom"> Adedokun Olufemi is Food Scientist/Nutritionist with a PhD degree in Food Science and Technology. He is also a  registered Public Analyst with expertise in Food analysis. Olufemi is a Research Fellow at the University of Ibadan Research Foundation Ajibode, Ibadan. My research interests are New product development, Adolescent health and nutrition, Neglected Tropical Diseases, Climate change, and Data Science. </span> <br> 
  <b>Research Interest:</b> Food system; Adolescent health and nutrition; Climate change. </p> <br> 
 <br>
 <br>
